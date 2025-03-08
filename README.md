@@ -14,103 +14,103 @@ Oh-My-Posh Theme with Distro-based Color schemes.
 ## Preview
 
 <details>
-  <summary>\uf333 Alma Linux</summary>
+  <summary>Alma Linux</summary>
 </details>
 
 <details>
-  <summary> Alpine Linux</summary>
+  <summary>Alpine Linux</summary>
 </details>
 
 <details>
-  <summary> Android</summary>
+  <summary>Android</summary>
 </details>
 
 <details>
-  <summary> AOSC Linux</summary>
+  <summary>AOSC Linux</summary>
 </details>
 
 <details>
-  <summary>󰣇 Arch Linux</summary>
+  <summary>Arch Linux</summary>
 </details>
 
 <details>
-  <summary> CentOS</summary>
+  <summary>CentOS</summary>
 </details>
 
 <details>
-  <summary> CoreOS</summary>
+  <summary>CoreOS</summary>
 </details>
 
 <details>
-  <summary> Debian</summary>
+  <summary>Debian</summary>
 </details>
 
 <details>
-  <summary> Deepin</summary>
+  <summary>Deepin</summary>
 </details>
 
 <details>
-  <summary> Devuan</summary>
+  <summary>Devuan</summary>
 </details>
 
 <details>
-  <summary> ElementaryOS</summary>
+  <summary>ElementaryOS</summary>
 </details>
 
 <details>
-  <summary> EndeavourOS</summary>
+  <summary>EndeavourOS</summary>
 </details>
 
 <details>
-  <summary> Fedora</summary>
+  <summary>Fedora</summary>
 </details>
 
 <details>
-  <summary> Gentoo</summary>
+  <summary>Gentoo</summary>
 </details>
 
 <details>
-  <summary> Mageia</summary>
+  <summary>Mageia</summary>
 </details>
 
 <details>
-  <summary> Manjaro</summary>
+  <summary>Manjaro</summary>
 </details>
 
 <details>
-  <summary>󰣭 Linux Mint</summary>
+  <summary>Linux Mint</summary>
 </details>
 
 <details>
-  <summary>󱄅 NixOS</summary>
+  <summary>NixOS</summary>
 </details>
 
 <details>
-  <summary> OpenSUSE</summary>
+  <summary>OpenSUSE</summary>
 </details>
 
 <details>
-  <summary> OpenSUSE Tumbleweed</summary>
+  <summary>OpenSUSE Tumbleweed</summary>
 </details>
 
 <details>
-  <summary> Raspbian</summary>
+  <summary>Raspbian</summary>
 </details>
 
 <details>
-  <summary> Red Hat</summary>
+  <summary>Red Hat</summary>
 </details>
 
 <details>
-  <summary> Rocky Linux</summary>
+  <summary>Rocky Linux</summary>
 </details>
 
 <details>
-  <summary> Slackware</summary>
+  <summary>Slackware</summary>
 </details>
 
 <details>
-  <summary>󰕈 Ubuntu</summary>
+  <summary>Ubuntu</summary>
 </details>
 
 ---
