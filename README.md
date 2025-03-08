@@ -59,6 +59,9 @@ Oh-My-Posh Theme with Distro-based Color schemes.
 
 <details>
   <summary>EndeavourOS</summary>
+
+  ![endeavouros-preview](https://raw.githubusercontent.com/TheElevatedOne/distrous.omp.json/refs/heads/main/previews/distrous-endeavouros.omp.json.png)
+  
 </details>
 
 <details>
