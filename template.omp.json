@@ -11,33 +11,7 @@
           "leading_diamond": "\ue0b2",
           "style": "diamond",
           "properties": {
-            "alma": "\uF31D ALMA",
-            "almalinux": "\uF31D ALML",
-            "almalinux9": "\uF31D ALL9",
-            "alpine": "\uF300 ALPN",
-            "android": "\uF17b ANDR",
-            "aosc": "\uF301 AOSC",
-            "arch": "\uF303 ARCH",
-            "centos": "\uF304 CENT",
-            "coreos": "\uF305 CORE",
-            "debian": "\uF306 DEBN",
-            "deepin": "\uF321 DEEP",
-            "devuan": "\uF307 DEVN",
-            "elementary": "\uF309 ELMT",
-            "endeavouros": "\uF322 EDOS",
-            "fedora": "\uF30a FEDR",
-            "gentoo": "\uF30d GENT",
-            "mageia": "\uF310 MAGI",
-            "manjaro": "\uF312 MANJ",
-            "mint": "\uF30e MINT",
-            "nixos": "\uF313 NIXS",
-            "opensuse": "\uF314 SUSE",
-            "opensuse-tumbleweed": "\uF314 SSTW",
-            "raspbian": "\uF315 RASP",
-            "redhat": "\uF316 RDHT",
-            "rocky": "\uF32B ROCK",
-            "slackware": "\uF319 SLCK",
-            "ubuntu": "\uF31b UBNT"
+            %icon_properties
           },
           "template": "<b> {{ .Icon }} </b>",
           "type": "os"
@@ -158,15 +132,15 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#D6DEEB",
+          "foreground": "%prompt_arr",
           "style": "plain",
           "template": "\u256d\u2500",
           "type": "text"
         },
         {
-          "foreground": "#F2D3B6",
+          "foreground": "%date",
           "properties": {
-            "time_format": " <#D6DEEB>\uf017 03:04:05 PM</> <#79DFE1>|</> \uf073 06/01/02 \uf104 January \uf142 Wednesday \uf105"
+            "time_format": " <%time>\uf017 03:04:05 PM</> <%pipe>|</> \uf073 06/01/02 \uf104 January \uf142 Wednesday \uf105"
           },
           "style": "plain",
           "template": "{{ .CurrentDate | date .Format }}",
@@ -181,14 +155,14 @@
       "type": "prompt",
       "segments": [
         {
-          "foreground": "#D6DEEB",
+          "foreground": "%prompt_arr",
           "style": "plain",
           "template": "\u2502",
           "type": "text"
         },
         {
           "style": "plain",
-          "template": "  <#C771FF>\uf007 {{ .UserName }}</> <#79DFE1>|</> <#FAFFA7>\udb80\udf79 {{ .HostName }}</>",
+          "template": "  <%user>\uf007 {{ .UserName }}</> <%pipe>|</> <%host>\udb80\udf79 {{ .HostName }}</>",
           "type": "session"
         }
       ]
@@ -208,22 +182,22 @@
           "leading_diamond": "",
           "properties": {
             "folder_icon": " \uf07c ",
-            "folder_separator_icon": " <#D6DEEB>\uf061</> ",
+            "folder_separator_icon": " <%prompt_arr>\uf061</> ",
             "home_icon": "\uf015",
             "style": "agnoster_short",
             "max_depth": 4,
             "right_format": "<u><b>%s</b></u>",
             "mapped_locations": {
-              "~/Videos": "\uf015 <#D6DEEB>\uf061</> \uf03d",
-              "~/Desktop": "\uf015 <#D6DEEB>\uf061</> \uf108",
-              "~/Documents": "\uf015 <#D6DEEB>\uf061</> \udb80\ude19",
-              "~/Downloads": "\uf015 <#D6DEEB>\uf061</> \uf019",
-              "~/Pictures/": "\uf015 <#D6DEEB>\uf061</> \uf03e",
-              "~/Music": "\uf015 <#D6DEEB>\uf061</> \uf001"
+              "~/Videos": "\uf015 <%prompt_arr>\uf061</> \uf03d",
+              "~/Desktop": "\uf015 <%prompt_arr>\uf061</> \uf108",
+              "~/Documents": "\uf015 <%prompt_arr>\uf061</> \udb80\ude19",
+              "~/Downloads": "\uf015 <%prompt_arr>\uf061</> \uf019",
+              "~/Pictures/": "\uf015 <%prompt_arr>\uf061</> \uf03e",
+              "~/Music": "\uf015 <%prompt_arr>\uf061</> \uf001"
             }
           },
           "style": "diamond",
-          "template": "  <#2DFF9B>{{ if not .Writable }}<#FF4444>\uf09c {{ end }}{{ if .RootDir }}\ue216{{ else }}{{ .Path }}{{ end }}</> ",
+          "template": "  <%writable_dir>{{ if not .Writable }}<%unwritable_dir>\uf09c {{ end }}{{ if .RootDir }}\ue216{{ else }}{{ .Path }}{{ end }}</> ",
           "type": "path"
         }
       ]
@@ -233,13 +207,13 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#D6DEEB",
+          "foreground": "%prompt_arr",
           "style": "plain",
           "template": "\u2570\u2500",
           "type": "text"
         },
         {
-          "foreground": "#D6DEEB",
+          "foreground": "%prompt_arr",
           "properties": {
             "always_enabled": true
           },
