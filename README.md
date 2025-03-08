@@ -37,7 +37,7 @@ Oh-My-Posh Theme with Distro-based Color schemes.
 
 ### EndeavourOS
 
-  ![endeavouros-preview](https:/raw.githubusercontent.com/TheElevatedOne/distrous.omp.json/refs/heads/main/previews/distrous-endeavouros.omp.json.png)
+- ![endeavouros-preview](https:/raw.githubusercontent.com/TheElevatedOne/distrous.omp.json/refs/heads/main/previews/distrous-endeavouros.omp.json.png)
 
 ### Fedora
 
