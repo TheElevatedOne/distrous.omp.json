@@ -14,7 +14,7 @@ Oh-My-Posh Theme with Distro-based Color schemes.
 ## Preview
 
 <details>
-  <summary> Alma Linux</summary>
+  <summary>\uf333 Alma Linux</summary>
 </details>
 
 <details>
