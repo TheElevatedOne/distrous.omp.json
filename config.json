@@ -1,0 +1,21 @@
+{
+  "EndeavourOS": {
+    "icon_properties": {
+      "endeavouros": "\uF322 EDOS"
+    },
+    "prompt_arr": "#D6BEEB",
+    "distro_bg": "#7634B8",
+    "distro_fg": "#FFFFFF",
+    "shell_bg": "#6C6BF4",
+    "shell_fg": "#FFFFFF",
+    "root_bg": "#F46C6B",
+    "root_fg": "#000000",
+    "pipe": "#79DFE1",
+    "time": "#D6BEEB",
+    "date": "#F2D3B6",
+    "user": "#C771FF",
+    "host": "#FAFFA7",
+    "writable_dir": "#2DFF9B",
+    "unwritable_dir": "#FF4444"
+  }
+}
