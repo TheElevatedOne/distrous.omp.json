@@ -13,108 +13,57 @@ Oh-My-Posh Theme with Distro-based Color schemes.
 
 ## Preview
 
-<details>
-  <summary>Alma Linux</summary>
-</details>
+### Alma Linux
 
-<details>
-  <summary>Alpine Linux</summary>
-</details>
+### Alpine Linux
 
-<details>
-  <summary>Android</summary>
-</details>
+### Android
 
-<details>
-  <summary>AOSC Linux</summary>
-</details>
+### AOSC Linux
 
-<details>
-  <summary>Arch Linux</summary>
-</details>
+### Arch Linux
 
-<details>
-  <summary>CentOS</summary>
-</details>
+### CentOS
 
-<details>
-  <summary>CoreOS</summary>
-</details>
+### CoreOS
 
-<details>
-  <summary>Debian</summary>
-</details>
+### Debian
 
-<details>
-  <summary>Deepin</summary>
-</details>
+### Deepin
 
-<details>
-  <summary>Devuan</summary>
-</details>
+### Devuan
 
-<details>
-  <summary>ElementaryOS</summary>
-</details>
+### ElementaryOS
 
-<details>
-  <summary>EndeavourOS</summary>
+### EndeavourOS
 
-  ![endeavouros-preview](https://raw.githubusercontent.com/TheElevatedOne/distrous.omp.json/refs/heads/main/previews/distrous-endeavouros.omp.json.png)
-  
-</details>
+  ![endeavouros-preview](https:/raw.githubusercontent.com/TheElevatedOne/distrous.omp.json/refs/heads/main/previews/distrous-endeavouros.omp.json.png)
 
-<details>
-  <summary>Fedora</summary>
-</details>
+### Fedora
 
-<details>
-  <summary>Gentoo</summary>
-</details>
+### Gentoo
 
-<details>
-  <summary>Mageia</summary>
-</details>
+### Mageia
 
-<details>
-  <summary>Manjaro</summary>
-</details>
+### Manjaro
 
-<details>
-  <summary>Linux Mint</summary>
-</details>
+### Linux Mint
 
-<details>
-  <summary>NixOS</summary>
-</details>
+### NixOS
 
-<details>
-  <summary>OpenSUSE</summary>
-</details>
+### OpenSUSE
 
-<details>
-  <summary>OpenSUSE Tumbleweed</summary>
-</details>
+### OpenSUSE Tumbleweed
 
-<details>
-  <summary>Raspbian</summary>
-</details>
+### Raspbian
 
-<details>
-  <summary>Red Hat</summary>
-</details>
+### Red Hat
 
-<details>
-  <summary>Rocky Linux</summary>
-</details>
+### Rocky Linux
 
-<details>
-  <summary>Slackware</summary>
-</details>
+### Slackware
 
-<details>
-  <summary>Ubuntu</summary>
-</details>
+### Ubuntu
 
 ---
 
