@@ -19,6 +19,7 @@ for theme in $(ls $SCRIPT_DIR/themes/); do
   oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme.png"
   cd ..
   oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme-general.png"
+  sudo -s oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme-root.png"
   cd $SCRIPT_DIR/env/unwritable_dir
   oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme-unwrite.png"
   cd $SCRIPT_DIR

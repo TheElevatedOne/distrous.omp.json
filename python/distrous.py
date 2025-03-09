@@ -3,7 +3,7 @@ import os.path as op
 
 
 def main() -> None:
-    file_dir = op.dirname(op.expanduser(__file__))
+    file_dir = op.dirname(op.dirname(op.expanduser(__file__)))
     config = op.join(file_dir, "config.json")
 
     with open(config) as r:
