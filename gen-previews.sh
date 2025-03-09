@@ -17,6 +17,14 @@ fi
 for theme in $(ls $SCRIPT_DIR/themes/); do
   printf "${GREEN}[Generating Preview]${NC} $theme\n"
   oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme.png"
+  cd ..
+  oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme-general.png"
+  cd $SCRIPT_DIR/env/unwritable_dir
+  oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme-unwrite.png"
+  cd $SCRIPT_DIR
+  source $SCRIPT_DIR/env/python_venv/bin/activate
+  oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme-venv.png"
+  deactivate
 done
 
 printf "\n"

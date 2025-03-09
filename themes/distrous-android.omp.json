@@ -15,7 +15,7 @@
         },
         {
           "background": "#C5FF1D",
-          "foreground": "#FFFFFF",
+          "foreground": "#000000",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
           "template": "<b> \uf489 {{ .Name }} </b>",

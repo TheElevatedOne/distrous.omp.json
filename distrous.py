@@ -10,6 +10,9 @@ def main() -> None:
         cfg_dict = js.load(r)
 
     for key, val in cfg_dict.items():
+        if not val["generate"]:
+            continue
+
         result = open(
             op.join(
                 file_dir,
@@ -18,7 +21,7 @@ def main() -> None:
             ),
             "w",
         )
-        with open(op.join(file_dir, "template.omp.json"), "r") as file:
+        with open(op.join(file_dir, "templates", "template.omp.json"), "r") as file:
             for line in file.readlines():
                 result.write(
                     line.replace("%icon", val["icon"])

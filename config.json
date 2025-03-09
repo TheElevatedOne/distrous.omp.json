@@ -14,7 +14,8 @@
     "user": "#24C2FF",
     "host": "#5593D7",
     "writable_dir": "#DBB93D",
-    "unwritable_dir": "#2072AA"
+    "unwritable_dir": "#2072AA",
+    "generate": true
   },
   "Alpine Linux": {
     "icon": "\uF300 ALPN",
@@ -31,7 +32,8 @@
     "user": "#70B6DD",
     "host": "#70DDC4",
     "writable_dir": "#48A1EB",
-    "unwritable_dir": "#EB486C"
+    "unwritable_dir": "#EB486C",
+    "generate": true
   },
   "Android": {
     "icon": "\uF17b ANDR",
@@ -48,7 +50,8 @@
     "user": "#D6FF5E",
     "host": "#7CFF77",
     "writable_dir": "#63DF37",
-    "unwritable_dir": "#E55C5C"
+    "unwritable_dir": "#E55C5C",
+    "generate": true
   },
   "AOSC Linux": {
     "icon": "\uF301 AOSC",
@@ -65,11 +68,12 @@
     "user": "#FFFFFF",
     "host": "#CCCCCC",
     "writable_dir": "#FFFFFF",
-    "unwritable_dir": " #FF2424"
+    "unwritable_dir": " #FF2424",
+    "generate": true
   },
   "Arch Linux": {
     "icon": "\uF303 ARCH",
-    "prompt_arr": "#4D4D4D",
+    "prompt_arr": "#707070",
     "distro_bg": "#1793D1",
     "distro_fg": "#FFFFFF",
     "shell_bg": "#4BB6EB",
@@ -82,58 +86,62 @@
     "user": "#3EB0EA",
     "host": "#EC7753",
     "writable_dir": "#6197CD",
-    "unwritable_dir": "#C64B4B"
+    "unwritable_dir": "#C64B4B",
+    "generate": true
   },
   "CentOS": {
     "icon": "\uF304 CENT",
-    "prompt_arr": "",
-    "distro_bg": "",
-    "distro_fg": "",
-    "shell_bg": "",
-    "shell_fg": "",
-    "root_bg": "",
-    "root_fg": "",
-    "pipe": "",
-    "time": "",
-    "date": "",
-    "user": "",
-    "host": "",
-    "writable_dir": "",
-    "unwritable_dir": ""
+    "prompt_arr": "#9BCD29",
+    "distro_bg": "#932179",
+    "distro_fg": "#FFFFFF",
+    "shell_bg": "#EFA723",
+    "shell_fg": "#000000",
+    "root_bg": "#262477",
+    "root_fg": "#FFFFFF",
+    "pipe": "#93D400",
+    "time": "#F1B13C",
+    "date": "#6360CF",
+    "user": "#D235AE",
+    "host": "#4C49C8",
+    "writable_dir": "#CB2EA7",
+    "unwritable_dir": "#6897D7",
+    "generate": true
   },
   "CoreOS": {
     "icon": "\uF305 CORE",
-    "prompt_arr": "",
-    "distro_bg": "",
-    "distro_fg": "",
-    "shell_bg": "",
-    "shell_fg": "",
-    "root_bg": "",
-    "root_fg": "",
-    "pipe": "",
-    "time": "",
-    "date": "",
-    "user": "",
-    "host": "",
-    "writable_dir": "",
-    "unwritable_dir": ""
+    "prompt_arr": "#FFFFFE",
+    "distro_bg": "#F15F6D",
+    "distro_fg": "#FFFFFF",
+    "shell_bg": "#52A3D9",
+    "shell_fg": "#FFFFFF",
+    "root_bg": "#9C66E5",
+    "root_fg": "#FFFFFF",
+    "pipe": "#BC98EE",
+    "time": "#DCF15D",
+    "date": "#88E5BD",
+    "user": "#F58792",
+    "host": "#88C0E5",
+    "writable_dir": "#74B1DA",
+    "unwritable_dir": "#DC4141",
+    "generate": true
   },
   "Debian": {
     "icon": "\uF306 DEBN",
-    "prompt_arr": "",
-    "distro_bg": "",
-    "distro_fg": "",
-    "shell_bg": "",
-    "shell_fg": "",
-    "root_bg": "",
-    "root_fg": "",
-    "pipe": "",
-    "time": "",
-    "date": "",
-    "user": "",
-    "host": "",
-    "writable_dir": "",
-    "unwritable_dir": ""
+    "prompt_arr": "#F7A9BD",
+    "distro_bg": "#AA002B",
+    "distro_fg": "#FFFFFF",
+    "shell_bg": "#D10035",
+    "shell_fg": "#FFFFFF",
+    "root_bg": "#FF0242",
+    "root_fg": "#FFFFFF",
+    "pipe": "#A9AFF7",
+    "time": "#E6E26E",
+    "date": "#E6AA6E",
+    "user": "#DC355F",
+    "host": "#E66E8C",
+    "writable_dir": "#CC496A",
+    "unwritable_dir": "#6149CC",
+    "generate": true
   },
   "Deepin": {
     "icon": "\uF321 DEEP",
@@ -150,7 +158,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "Devuan": {
     "icon": "\uF307 DEVN",
@@ -167,7 +176,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "ElementaryOS": {
     "icon": "\uF309 ELMT",
@@ -184,7 +194,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "EndeavourOS": {
     "icon": "\uF322 EOS",
@@ -201,7 +212,8 @@
     "user": "#C771FF",
     "host": "#FAFFA7",
     "writable_dir": "#2DFF9B",
-    "unwritable_dir": "#FF4444"
+    "unwritable_dir": "#FF4444",
+    "generate": true
   },
   "Fedora": {
     "icon": "\uF30a FEDR",
@@ -218,7 +230,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "Gentoo": {
     "icon": "\uF30d GENT",
@@ -235,7 +248,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "Mageia": {
     "icon": "\uF310 MAGI",
@@ -252,7 +266,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "Manjaro": {
     "icon": "\uF312 MANJ",
@@ -269,7 +284,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "Linux Mint": {
     "icon": "\uF30e MINT",
@@ -286,7 +302,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "NixOS": {
     "icon": "\uF313 NIXOS",
@@ -303,7 +320,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "OpenSUSE": {
     "icon": "\uF314 SUSE",
@@ -320,7 +338,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "Tumbleweed": {
     "icon": "\uF314 TBLW",
@@ -337,7 +356,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "Raspbian": {
     "icon": "\uF315 RASP",
@@ -354,7 +374,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "Red Hat": {
     "icon": "\uF316 RDHT",
@@ -371,7 +392,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "Rocky Linux": {
     "icon": "\uF32B ROCKY",
@@ -388,7 +410,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "Slackware": {
     "icon": "\uF319 SLACK",
@@ -405,7 +428,8 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   },
   "Ubuntu": {
     "icon": "\uF31b UBNT",
@@ -422,6 +446,7 @@
     "user": "",
     "host": "",
     "writable_dir": "",
-    "unwritable_dir": ""
+    "unwritable_dir": "",
+    "generate": false
   }
 }
