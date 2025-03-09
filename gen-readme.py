@@ -16,21 +16,21 @@ def main():
 <details>
     <summary>General</summary>
     
-    ![%s_name-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name-general.omp.json.png?raw=true)
+![%s_name-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-general.png?raw=true)
 
 </details>
 
 <details>
     <summary>Unwritable Directory</summary>
 
-    ![%s_name-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name-unwrite.omp.json.png?raw=true)
+![%s_name-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-unwrite.png?raw=true)
 
 </details>
 
 <details>
     <summary>Python Venv</summary>
 
-    ![%s_name-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name-venv.omp.json.png?raw=true)
+![%s_name-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-venv.png?raw=true)
 
 </details>
 
