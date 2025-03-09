@@ -8,8 +8,8 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 ## Navigation
 
-- [Preview](#preview)
-- [Documentation](#documentation)
+- [**Preview**](#preview)
+- [**Documentation**](#documentation)
 
 ---
 
