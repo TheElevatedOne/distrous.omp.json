@@ -32,7 +32,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![alma-linux-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json-root.png?raw=true)
@@ -86,7 +86,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![alpine-linux-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json-root.png?raw=true)
@@ -140,7 +140,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![android-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json-root.png?raw=true)
@@ -194,7 +194,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![aosc-linux-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json-root.png?raw=true)
@@ -248,7 +248,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![arch-linux-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json-root.png?raw=true)
@@ -302,7 +302,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![centos-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json-root.png?raw=true)
@@ -356,7 +356,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![coreos-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json-root.png?raw=true)
@@ -410,7 +410,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![debian-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json-root.png?raw=true)
@@ -464,7 +464,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![deepin-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json-root.png?raw=true)
@@ -518,7 +518,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![devuan-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json-root.png?raw=true)
@@ -572,7 +572,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![elementaryos-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json-root.png?raw=true)
@@ -626,7 +626,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![endeavouros-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-root.png?raw=true)
@@ -680,7 +680,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![fedora-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json-root.png?raw=true)
@@ -734,7 +734,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![gentoo-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json-root.png?raw=true)
@@ -788,7 +788,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![mageia-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json-root.png?raw=true)
@@ -842,7 +842,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![manjaro-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json-root.png?raw=true)
@@ -896,7 +896,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![linux-mint-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json-root.png?raw=true)
@@ -950,7 +950,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![nixos-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json-root.png?raw=true)
@@ -1004,7 +1004,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![opensuse-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json-root.png?raw=true)
@@ -1058,7 +1058,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![tumbleweed-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json-root.png?raw=true)
@@ -1112,7 +1112,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![raspbian-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json-root.png?raw=true)
@@ -1166,7 +1166,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![red-hat-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json-root.png?raw=true)
@@ -1220,7 +1220,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![rocky-linux-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json-root.png?raw=true)
@@ -1274,7 +1274,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![slackware-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json-root.png?raw=true)
@@ -1328,7 +1328,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![ubuntu-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json-root.png?raw=true)

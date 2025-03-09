@@ -25,7 +25,7 @@ def main():
 
     </details>
 
--<details>
+- <details>
     <summary>Root</summary>
     
     > ![%s_name-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-root.png?raw=true)
