@@ -21,11 +21,19 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 ### Alpine Linux
 
+> [![alpine-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json.png?raw=true)](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-alpine-linux.omp.json?raw=true)
+
 ### Android
 
+> [![alma-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json.png?raw=true)](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-android.omp.json?raw=true)
+> the shell color will be corrected in the next push
 ### AOSC Linux
 
+> [![alma-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json.png?raw=true)](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-aosc-linux.omp.json?raw=true)
+
 ### Arch Linux
+
+> [![alma-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json.png?raw=true)](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-arch-linux.omp.json?raw=true)
 
 ### CentOS
 
