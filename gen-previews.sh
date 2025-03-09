@@ -22,6 +22,8 @@ for theme in $(ls $SCRIPT_DIR/themes/); do
   sudo -s oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme-root.png"
   cd $SCRIPT_DIR/env/unwritable_dir
   oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme-unwrite.png"
+  cd $SCRIPT_DIR/python
+  oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme-script.png"
   cd $SCRIPT_DIR
   source $SCRIPT_DIR/env/python_venv/bin/activate
   oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme-venv.png"

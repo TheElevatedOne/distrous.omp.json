@@ -42,9 +42,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![alma-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![alma-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -76,9 +88,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![alpine-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![alpine-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -110,9 +134,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![android-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![android-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -144,9 +180,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![aosc-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![aosc-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -178,9 +226,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![arch-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![arch-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -212,9 +272,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![centos-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![centos-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -246,9 +318,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![coreos-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![coreos-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -280,9 +364,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![debian-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![debian-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -314,9 +410,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![deepin-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![deepin-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -348,9 +456,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![devuan-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![devuan-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -382,9 +502,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![elementaryos-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![elementaryos-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -416,9 +548,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![endeavouros-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![endeavouros-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -450,9 +594,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![fedora-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![fedora-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -484,9 +640,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![gentoo-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![gentoo-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -518,9 +686,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![mageia-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![mageia-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -552,9 +732,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![manjaro-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![manjaro-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -586,9 +778,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![linux-mint-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![linux-mint-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -620,9 +824,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![nixos-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![nixos-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -654,9 +870,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![opensuse-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![opensuse-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -688,9 +916,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![tumbleweed-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![tumbleweed-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -722,9 +962,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![raspbian-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![raspbian-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -756,9 +1008,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![red-hat-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![red-hat-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -790,9 +1054,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![rocky-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![rocky-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -824,9 +1100,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![slackware-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![slackware-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
@@ -858,9 +1146,21 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 </details>
 
 <details>
-    <summary>Python Venv</summary>
+    <summary>Python</summary>
+
+    <details>
+        <summary>Script</summary>
+
+> ![ubuntu-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json-script.png?raw=true)
+
+    </details>
+
+    <details>
+        <summary>Venv</summary>
 
 > ![ubuntu-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json-venv.png?raw=true)
+
+    </details>
 
 </details>
 
