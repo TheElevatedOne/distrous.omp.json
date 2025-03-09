@@ -21,10 +21,7 @@ def main() -> None:
         with open(op.join(file_dir, "template.omp.json"), "r") as file:
             for line in file.readlines():
                 result.write(
-                    line.replace(
-                        "%icon_properties",
-                        str(val["icon_properties"])[1:-1].replace("'", '"'),
-                    )
+                    line.replace("%icon", val["icon"])
                     .replace("%prompt_arr", val["prompt_arr"])
                     .replace("%distro_bg", val["distro_bg"])
                     .replace("%distro_fg", val["distro_fg"])

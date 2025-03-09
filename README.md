@@ -17,6 +17,8 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 ### Alma Linux
 
+> [![alma-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json.png?raw=true)](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-alma-linux.omp.json?raw=true)
+
 ### Alpine Linux
 
 ### Android
@@ -39,7 +41,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 ### EndeavourOS
 
-> ![endeavouros-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json.png?raw=true)
+> [![endeavouros-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json.png?raw=true)](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-endeavouros.omp.json?raw=true)
 
 ### Fedora
 

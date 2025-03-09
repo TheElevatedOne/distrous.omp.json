@@ -10,10 +10,7 @@
           "foreground": "%distro_fg",
           "leading_diamond": "\ue0b2",
           "style": "diamond",
-          "properties": {
-            %icon_properties
-          },
-          "template": "<b> {{ .Icon }} </b>",
+          "template": "<b> %icon </b>",
           "type": "os"
         },
         {
@@ -173,7 +170,7 @@
       "type": "prompt",
       "segments": [
         {
-          "foreground": "#D6DEEB",
+          "foreground": "%prompt_arr",
           "style": "plain",
           "template": "\u2502",
           "type": "text"
@@ -233,7 +230,7 @@
   },
   "secondary_prompt": {
     "background": "transparent",
-    "foreground": "#D6DEEB",
+    "foreground": "%prompt_arr",
     "template": "\u2570\u2500\u276f "
   },
   "version": 3
