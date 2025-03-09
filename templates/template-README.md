@@ -14,7 +14,9 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 ---
 
 ## Preview
+
 %template
+
 ---
 
 ## Documentation
