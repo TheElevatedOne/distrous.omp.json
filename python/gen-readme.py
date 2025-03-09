@@ -38,19 +38,19 @@ def main():
 <details>
     <summary>Python</summary>
 
-    <details>
-        <summary>Script</summary>
+<details>
+    <summary>Script</summary>
 
 > ![%s_name-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-script.png?raw=true)
 
-    </details>
+</details>
 
-    <details>
-        <summary>Venv</summary>
+<details>
+    <summary>Venv</summary>
 
 > ![%s_name-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-venv.png?raw=true)
 
-    </details>
+</details>
 
 </details>
 
