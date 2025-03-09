@@ -18,47 +18,27 @@ def main():
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![%s_name-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![%s_name-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![%s_name-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![%s_name-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![%s_name-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 

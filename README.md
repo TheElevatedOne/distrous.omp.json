@@ -25,47 +25,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![alma-linux-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![alma-linux-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![alma-linux-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![alma-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![alma-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -79,47 +59,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![alpine-linux-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![alpine-linux-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![alpine-linux-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![alpine-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![alpine-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -133,47 +93,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![android-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![android-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![android-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![android-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![android-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -187,47 +127,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![aosc-linux-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![aosc-linux-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![aosc-linux-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![aosc-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![aosc-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -241,47 +161,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![arch-linux-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![arch-linux-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![arch-linux-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![arch-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![arch-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -295,47 +195,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![centos-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![centos-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![centos-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![centos-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![centos-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -349,47 +229,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![coreos-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![coreos-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![coreos-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![coreos-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![coreos-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -403,47 +263,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![debian-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![debian-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![debian-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![debian-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![debian-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -457,47 +297,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![deepin-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![deepin-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![deepin-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![deepin-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![deepin-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -511,47 +331,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![devuan-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![devuan-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![devuan-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![devuan-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![devuan-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -565,47 +365,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![elementaryos-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![elementaryos-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![elementaryos-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![elementaryos-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![elementaryos-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -619,47 +399,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![endeavouros-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![endeavouros-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![endeavouros-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![endeavouros-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![endeavouros-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -673,47 +433,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![fedora-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![fedora-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![fedora-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![fedora-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![fedora-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -727,47 +467,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![gentoo-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![gentoo-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![gentoo-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![gentoo-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![gentoo-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -781,47 +501,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![mageia-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![mageia-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![mageia-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![mageia-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![mageia-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -835,47 +535,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![manjaro-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![manjaro-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![manjaro-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![manjaro-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![manjaro-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -889,47 +569,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![linux-mint-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![linux-mint-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![linux-mint-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![linux-mint-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![linux-mint-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -943,47 +603,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![nixos-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![nixos-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![nixos-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![nixos-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![nixos-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -997,47 +637,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![opensuse-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![opensuse-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![opensuse-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![opensuse-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![opensuse-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -1051,47 +671,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![tumbleweed-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![tumbleweed-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![tumbleweed-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![tumbleweed-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![tumbleweed-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -1105,47 +705,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![raspbian-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![raspbian-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![raspbian-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![raspbian-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![raspbian-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -1159,47 +739,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![red-hat-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![red-hat-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![red-hat-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![red-hat-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![red-hat-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -1213,47 +773,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![rocky-linux-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![rocky-linux-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![rocky-linux-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![rocky-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![rocky-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -1267,47 +807,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![slackware-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![slackware-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![slackware-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![slackware-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![slackware-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
@@ -1321,47 +841,27 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 <details>
     <summary>Extra</summary>
 
-- <details>
-    <summary>General</summary>
+- **General**
         
     > ![ubuntu-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json-general.png?raw=true)
 
-    </details>
+- **Root**
 
-- <details>
-    <summary>Root</summary>
-    
     > ![ubuntu-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json-root.png?raw=true)
 
-    </details>
-
-
-- <details>
-    <summary>Unwritable Directory</summary>
+- **Unwritable Directory**
 
     > ![ubuntu-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json-unwrite.png?raw=true)
 
-    </details>
+- **Python**
 
-- <details>
-    <summary>Python</summary>
-    </br>
-
-    - <details>
-        <summary>Script</summary>
+    - **Script**
 
         > ![ubuntu-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json-script.png?raw=true)
 
-        </details>
-
-    - <details>
-        <summary>Venv</summary>
+    - **Venv**
 
         > ![ubuntu-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json-venv.png?raw=true)
-
-        </details>
-
-    </details>
 
 </details>
 
