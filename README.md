@@ -20,7 +20,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![alma-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json.png?raw=true)
 
-**Link to file:** [alma-linux.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-alma-linux.omp.json?raw=true)
+**Link to file:** [distrous-alma-linux.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-alma-linux.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -74,7 +74,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![alpine-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json.png?raw=true)
 
-**Link to file:** [alpine-linux.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-alpine-linux.omp.json?raw=true)
+**Link to file:** [distrous-alpine-linux.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-alpine-linux.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -128,7 +128,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![android-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json.png?raw=true)
 
-**Link to file:** [android.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-android.omp.json?raw=true)
+**Link to file:** [distrous-android.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-android.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -182,7 +182,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![aosc-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json.png?raw=true)
 
-**Link to file:** [aosc-linux.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-aosc-linux.omp.json?raw=true)
+**Link to file:** [distrous-aosc-linux.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-aosc-linux.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -236,7 +236,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![arch-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json.png?raw=true)
 
-**Link to file:** [arch-linux.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-arch-linux.omp.json?raw=true)
+**Link to file:** [distrous-arch-linux.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-arch-linux.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -290,7 +290,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![centos-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json.png?raw=true)
 
-**Link to file:** [centos.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-centos.omp.json?raw=true)
+**Link to file:** [distrous-centos.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-centos.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -344,7 +344,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![coreos-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json.png?raw=true)
 
-**Link to file:** [coreos.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-coreos.omp.json?raw=true)
+**Link to file:** [distrous-coreos.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-coreos.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -398,7 +398,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![debian-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json.png?raw=true)
 
-**Link to file:** [debian.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-debian.omp.json?raw=true)
+**Link to file:** [distrous-debian.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-debian.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -452,7 +452,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![deepin-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json.png?raw=true)
 
-**Link to file:** [deepin.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-deepin.omp.json?raw=true)
+**Link to file:** [distrous-deepin.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-deepin.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -506,7 +506,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![devuan-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json.png?raw=true)
 
-**Link to file:** [devuan.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-devuan.omp.json?raw=true)
+**Link to file:** [distrous-devuan.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-devuan.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -560,7 +560,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![elementaryos-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json.png?raw=true)
 
-**Link to file:** [elementaryos.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-elementaryos.omp.json?raw=true)
+**Link to file:** [distrous-elementaryos.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-elementaryos.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -614,7 +614,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![endeavouros-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json.png?raw=true)
 
-**Link to file:** [endeavouros.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-endeavouros.omp.json?raw=true)
+**Link to file:** [distrous-endeavouros.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-endeavouros.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -668,7 +668,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![fedora-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json.png?raw=true)
 
-**Link to file:** [fedora.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-fedora.omp.json?raw=true)
+**Link to file:** [distrous-fedora.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-fedora.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -722,7 +722,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![gentoo-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json.png?raw=true)
 
-**Link to file:** [gentoo.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-gentoo.omp.json?raw=true)
+**Link to file:** [distrous-gentoo.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-gentoo.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -776,7 +776,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![mageia-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json.png?raw=true)
 
-**Link to file:** [mageia.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-mageia.omp.json?raw=true)
+**Link to file:** [distrous-mageia.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-mageia.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -830,7 +830,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![manjaro-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json.png?raw=true)
 
-**Link to file:** [manjaro.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-manjaro.omp.json?raw=true)
+**Link to file:** [distrous-manjaro.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-manjaro.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -884,7 +884,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![linux-mint-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json.png?raw=true)
 
-**Link to file:** [linux-mint.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-linux-mint.omp.json?raw=true)
+**Link to file:** [distrous-linux-mint.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-linux-mint.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -938,7 +938,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![nixos-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json.png?raw=true)
 
-**Link to file:** [nixos.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-nixos.omp.json?raw=true)
+**Link to file:** [distrous-nixos.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-nixos.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -992,7 +992,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![opensuse-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json.png?raw=true)
 
-**Link to file:** [opensuse.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-opensuse.omp.json?raw=true)
+**Link to file:** [distrous-opensuse.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-opensuse.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -1046,7 +1046,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![tumbleweed-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json.png?raw=true)
 
-**Link to file:** [tumbleweed.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-tumbleweed.omp.json?raw=true)
+**Link to file:** [distrous-tumbleweed.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-tumbleweed.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -1100,7 +1100,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![raspbian-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json.png?raw=true)
 
-**Link to file:** [raspbian.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-raspbian.omp.json?raw=true)
+**Link to file:** [distrous-raspbian.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-raspbian.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -1154,7 +1154,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![red-hat-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json.png?raw=true)
 
-**Link to file:** [red-hat.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-red-hat.omp.json?raw=true)
+**Link to file:** [distrous-red-hat.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-red-hat.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -1208,7 +1208,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![rocky-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json.png?raw=true)
 
-**Link to file:** [rocky-linux.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-rocky-linux.omp.json?raw=true)
+**Link to file:** [distrous-rocky-linux.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-rocky-linux.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -1262,7 +1262,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![slackware-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json.png?raw=true)
 
-**Link to file:** [slackware.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-slackware.omp.json?raw=true)
+**Link to file:** [distrous-slackware.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-slackware.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
@@ -1316,7 +1316,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > ![ubuntu-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json.png?raw=true)
 
-**Link to file:** [ubuntu.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-ubuntu.omp.json?raw=true)
+**Link to file:** [distrous-ubuntu.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-ubuntu.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>

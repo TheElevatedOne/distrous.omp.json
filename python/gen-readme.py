@@ -13,7 +13,7 @@ def main():
 
 > ![%s_name-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json.png?raw=true)
 
-**Link to file:** [%s_name.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-%s_name.omp.json?raw=true)
+**Link to file:** [distrous-%s_name.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-%s_name.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
