@@ -15,7 +15,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 ## Preview
 
-### Previews for All Themes Here: [PREVIEWS.md](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md)
+### Previews for All Themes Here: [<ins>PREVIEWS.md</ins>](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md)
 
 ### EndeavourOS - Example
 
