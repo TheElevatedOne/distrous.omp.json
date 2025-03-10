@@ -7,7 +7,7 @@
       "segments": [
         {
           "background": "#98CC00",
-          "foreground": "#FFFFFF",
+          "foreground": "#000000",
           "leading_diamond": "\ue0b2",
           "style": "diamond",
           "template": "<b>  ANDR </b>",
