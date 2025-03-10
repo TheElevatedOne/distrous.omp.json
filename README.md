@@ -113,7 +113,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 ### Config
 
 ```json
-"EndeavourOS": {              # Theme Name
+"EndeavourOS": {                # Theme Name
   "icon": "\uF322 EOS",         # NerdFont UTF and/or Inicials
   "prompt_arr": "#D6BEEB",      # Arrow leading from time to prompt
   "distro_bg": "#7735B9",       # Main Distro color
@@ -129,7 +129,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
   "host": "#FAFFA7",            # Hostname Color 
   "writable_dir": "#2DFF9B",    # User-owned Dir tree color
   "unwritable_dir": "#FF4444",  # Non-User-owned Dir tree color
-  "generate": true            # If true, theme generates when running scripts; if false, theme is skipped
+  "generate": true              # If true, theme generates when running scripts; if false, theme is skipped
 }
 ```
 
