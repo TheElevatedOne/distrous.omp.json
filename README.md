@@ -1,6 +1,8 @@
 # distrous.omp.json
 
-Oh-My-Posh Theme with Distro-based Color schemes.
+![distrous-logo](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/logo.svg?raw=true)
+
+[**OhMyPosh**](https://ohmyposh.dev/) Theme with Distro-based Color schemes.
 
 Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/kushal.omp.json).
 
