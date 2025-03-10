@@ -137,3 +137,10 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 > Secondary and Tertiary colors do not need to be from distro.
 > They can be created by you based on the distro color/s
+
+---
+
+## Additional Information
+
+- The Font used in previews and the Logo is **Liberation Mono Nerd Font** [<ins>*NerdFonts.com Download*</ins>](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/LiberationMono.zip)
+- To show custom unicode icons you need a patched font from [nerdfonts.com](https://www.nerdfonts.com/font-downloads).
