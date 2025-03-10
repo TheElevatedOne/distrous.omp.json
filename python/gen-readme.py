@@ -50,9 +50,9 @@ def main():
             "%s_name", name.lower().replace(" ", "-")
         )
 
-    readme = open(op.join(file_dir, "README.md"), "w")
+    readme = open(op.join(file_dir, "PREVIEWS.md"), "w")
     t_readme = open(
-        op.join(file_dir, "templates", "template-README.md"), "r"
+        op.join(file_dir, "templates", "template-PREVIEWS.md"), "r"
     ).readlines()
 
     for line in t_readme:
