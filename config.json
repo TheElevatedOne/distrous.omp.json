@@ -148,7 +148,7 @@
     "prompt_arr": "#99AAC1",
     "distro_bg": "#2FC6FF",
     "distro_fg": "#000000",
-    "shell_bg": "#52B6DC",
+    "shell_bg": "#94C3CB",
     "shell_fg": "#000000",
     "root_bg": "#4987DB",
     "root_fg": "#FFFFFF",
@@ -195,7 +195,7 @@
     "host": "#D37CC4",
     "writable_dir": "#89BDC6",
     "unwritable_dir": "#C68989",
-    "generate": false
+    "generate": true
   },
   "EndeavourOS": {
     "icon": "\uF322 EOS",

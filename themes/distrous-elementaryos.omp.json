@@ -6,23 +6,23 @@
       "alignment": "left",
       "segments": [
         {
-          "background": "#2FC6FF",
+          "background": "#4DA0D8",
           "foreground": "#000000",
           "leading_diamond": "\ue0b2",
           "style": "diamond",
-          "template": "<b>  DEEP </b>",
+          "template": "<b>  ELMT </b>",
           "type": "os"
         },
         {
-          "background": "#94C3CB",
-          "foreground": "#000000",
+          "background": "#1E5E89",
+          "foreground": "#FFFFFF",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
           "template": "<b> \uf489 {{ .Name }} </b>",
           "type": "shell"
         },
         {
-          "background": "#4987DB",
+          "background": "#11354D",
           "foreground": "#FFFFFF",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
@@ -129,15 +129,15 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#99AAC1",
+          "foreground": "#9DAAB3",
           "style": "plain",
           "template": "\u256d\u2500",
           "type": "text"
         },
         {
-          "foreground": "#DB847A",
+          "foreground": "#5BC868",
           "properties": {
-            "time_format": " <#DBB27A>\uf017 03:04:05 PM</> <#66C7B7>|</> \uf073 06/01/02 \uf104 January \uf142 Wednesday \uf105"
+            "time_format": " <#5BC89F>\uf017 03:04:05 PM</> <#5BB9C8>|</> \uf073 06/01/02 \uf104 January \uf142 Wednesday \uf105"
           },
           "style": "plain",
           "template": "{{ .CurrentDate | date .Format }}",
@@ -152,14 +152,14 @@
       "type": "prompt",
       "segments": [
         {
-          "foreground": "#99AAC1",
+          "foreground": "#9DAAB3",
           "style": "plain",
           "template": "\u2502",
           "type": "text"
         },
         {
           "style": "plain",
-          "template": "  <#C0DB7A>\uf007 {{ .UserName }}</> <#66C7B7>|</> <#A4D58B>\udb80\udf79 {{ .HostName }}</>",
+          "template": "  <#977CD3>\uf007 {{ .UserName }}</> <#5BB9C8>|</> <#D37CC4>\udb80\udf79 {{ .HostName }}</>",
           "type": "session"
         }
       ]
@@ -170,7 +170,7 @@
       "type": "prompt",
       "segments": [
         {
-          "foreground": "#99AAC1",
+          "foreground": "#9DAAB3",
           "style": "plain",
           "template": "\u2502",
           "type": "text"
@@ -179,22 +179,22 @@
           "leading_diamond": "",
           "properties": {
             "folder_icon": " \uf07c ",
-            "folder_separator_icon": " <#99AAC1>\uf061</> ",
+            "folder_separator_icon": " <#9DAAB3>\uf061</> ",
             "home_icon": "\uf015",
             "style": "agnoster_short",
             "max_depth": 4,
             "right_format": "<u><b>%s</b></u>",
             "mapped_locations": {
-              "~/Videos": "\uf015 <#99AAC1>\uf061</> \uf03d",
-              "~/Desktop": "\uf015 <#99AAC1>\uf061</> \uf108",
-              "~/Documents": "\uf015 <#99AAC1>\uf061</> \udb80\ude19",
-              "~/Downloads": "\uf015 <#99AAC1>\uf061</> \uf019",
-              "~/Pictures/": "\uf015 <#99AAC1>\uf061</> \uf03e",
-              "~/Music": "\uf015 <#99AAC1>\uf061</> \uf001"
+              "~/Videos": "\uf015 <#9DAAB3>\uf061</> \uf03d",
+              "~/Desktop": "\uf015 <#9DAAB3>\uf061</> \uf108",
+              "~/Documents": "\uf015 <#9DAAB3>\uf061</> \udb80\ude19",
+              "~/Downloads": "\uf015 <#9DAAB3>\uf061</> \uf019",
+              "~/Pictures/": "\uf015 <#9DAAB3>\uf061</> \uf03e",
+              "~/Music": "\uf015 <#9DAAB3>\uf061</> \uf001"
             }
           },
           "style": "diamond",
-          "template": "  <#A7ADE4>{{ if not .Writable }}<#D58BC2>\uf09c {{ end }}{{ if .RootDir }}\ue216{{ else }}{{ .Path }}{{ end }}</> ",
+          "template": "  <#89BDC6>{{ if not .Writable }}<#C68989>\uf09c {{ end }}{{ if .RootDir }}\ue216{{ else }}{{ .Path }}{{ end }}</> ",
           "type": "path"
         }
       ]
@@ -204,13 +204,13 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#99AAC1",
+          "foreground": "#9DAAB3",
           "style": "plain",
           "template": "\u2570\u2500",
           "type": "text"
         },
         {
-          "foreground": "#99AAC1",
+          "foreground": "#9DAAB3",
           "properties": {
             "always_enabled": true
           },
@@ -230,7 +230,7 @@
   },
   "secondary_prompt": {
     "background": "transparent",
-    "foreground": "#99AAC1",
+    "foreground": "#9DAAB3",
     "template": "\u2570\u2500\u276f "
   },
   "version": 3
