@@ -1,6 +1,6 @@
 # distrous.omp.json
 
-![distrous-logo](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/logo.png?raw=true)
+![distrous-logo](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/logos/logo.png?raw=true)
 
 [**OhMyPosh**](https://ohmyposh.dev/) Theme with Distro-based Color schemes.
 
