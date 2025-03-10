@@ -69,16 +69,16 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 ### Bash Scripts
 
-#### generate-all.sh
+#### `generate-all.sh`
 
 - Generate themes from config, generate previews and generate markdown
 - Runs `distrous.sh`, `gen-previews.sh`, `gen-readme.sh` in that order
 
-#### distrous.sh
+#### `distrous.sh`
 
 - Runs `python/distrous.py`
 
-#### gen-previews.sh
+#### `gen-previews.sh`
 
 - Generates all previews
   - **Basic** - in GitHub Repo Directory
@@ -88,23 +88,23 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
   - *Python Script* - `cd ./python/`,in the scripts directory
   - *Python Venv* - `source ./env/python_venv/bin/activate`, to show a general venv
 
-#### gen-readme.sh
+#### `gen-readme.sh`
 
 - Runs `python/gen-readme.py`
 
-#### git-push.sh "$@"
+#### `git-push.sh "$@"`
 
 - Adds all, Commits with a message in an argument, Pushes to Repo in one command
 - To make it faster
 
 ### Python Scripts
 
-#### python/distrous.py
+#### `python/distrous.py`
 
 - Loads config into a dictionary
 - Generates themes from a template
 
-#### python/gen-readme.py
+#### `python/gen-readme.py`
 
 - Loads a config for the names
 - Has a template string for the previews
