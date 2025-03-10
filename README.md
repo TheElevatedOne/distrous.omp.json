@@ -27,7 +27,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![endeavouros-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-general.png?raw=true)
 
 - **Root**
@@ -40,15 +40,23 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![endeavouros-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![endeavouros-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-venv.png?raw=true)
 
 </details>
+
+---
+
+## Distros
+
+> If you want a distro added, create an ***enhancement*** issue.
+> You may just say the name, or create a whole config part.
+> You can find the ***Example*** config in the Documentation section.
 
 ---
 
