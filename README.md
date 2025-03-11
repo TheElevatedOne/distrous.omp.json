@@ -6,6 +6,8 @@
 
 #### Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/kushal.omp.json)
 
+#### Uses [bash_progress_bar](https://github.com/pollev/bash_progress_bar) by pollev because why not xd
+
 ---
 
 ## Navigation
