@@ -2,9 +2,9 @@
 
 ![distrous-logo](logos/logo.png)
 
-[**OhMyPosh**](https://ohmyposh.dev/) Theme with Distro-based Color schemes.
+### [**OhMyPosh**](https://ohmyposh.dev/) Theme with Distro-based Color schemes
 
-Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/kushal.omp.json).
+#### Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/kushal.omp.json)
 
 ---
 
