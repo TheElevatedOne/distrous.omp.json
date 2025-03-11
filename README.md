@@ -163,7 +163,7 @@ git clone --recurse-submodules https://github.com/TheElevatedOne/distrous.omp.js
 
 ```json
 "EndeavourOS": {                # Theme Name
-  "icon": "\uF322 EOS",         # NerdFont UTF and/or Inicials
+  "icon": "\uF322 EOS",         # NerdFont UTF and/or Initials
   "prompt_arr": "#D6BEEB",      # Arrow leading from time to prompt
   "distro_bg": "#7735B9",       # Main Distro color
   "distro_fg": "#FFFFFF",       # Text Color to complement distro_bg
