@@ -88,7 +88,7 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 - [**Slackware**](PREVIEWS.md#slackware)
 - [**Ubuntu**](PREVIEWS.md#ubuntu)
 - [**Kubuntu**](PREVIEWS.md#kubuntu)
-- [**Pop!_OS**](PREVIEWS.md#popos)
+- [**Pop!_OS**](PREVIEWS.md#pop_os)
 - [**Windows 10**](PREVIEWS.md#windows-10)
 - [**Windows 11**](PREVIEWS.md#windows-11)
 - [**KDE Neon**](PREVIEWS.md#kde-neon)
