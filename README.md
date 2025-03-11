@@ -108,7 +108,7 @@
 ### How to Configure
 
 1. Install `git, python3, oh-my-posh` and a text editor line `neovim`
-2. ```git clone https://github.com/TheElevatedOne/distrous.omp.json.git && cd distrous.omp.json```
+2. ```git clone --recurse-submodules https://github.com/TheElevatedOne/distrous.omp.json.git && cd distrous.omp.json```
 3. Configure
 
 ### Bash Scripts
