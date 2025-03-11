@@ -145,3 +145,6 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 - The Font used in previews and the Logo is **Liberation Mono Nerd Font** [<ins>*NerdFonts.com Download*</ins>](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/LiberationMono.zip)
 - To show custom unicode icons you need a patched font from [nerdfonts.com](https://www.nerdfonts.com/font-downloads).
+- I use Neovim and Gpick for editing the config and picking the color scheme
+
+> ![image-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/images/workflow.png)
