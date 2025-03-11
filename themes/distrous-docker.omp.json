@@ -129,7 +129,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "",
+          "foreground": "#83A7CC",
           "style": "plain",
           "template": "\u256d\u2500",
           "type": "text"
@@ -152,7 +152,7 @@
       "type": "prompt",
       "segments": [
         {
-          "foreground": "",
+          "foreground": "#83A7CC",
           "style": "plain",
           "template": "\u2502",
           "type": "text"
@@ -170,7 +170,7 @@
       "type": "prompt",
       "segments": [
         {
-          "foreground": "",
+          "foreground": "#83A7CC",
           "style": "plain",
           "template": "\u2502",
           "type": "text"
@@ -179,18 +179,18 @@
           "leading_diamond": "",
           "properties": {
             "folder_icon": " \uf07c ",
-            "folder_separator_icon": " <>\uf061</> ",
+            "folder_separator_icon": " <#83A7CC>\uf061</> ",
             "home_icon": "\uf015",
             "style": "agnoster_short",
             "max_depth": 4,
             "right_format": "<u><b>%s</b></u>",
             "mapped_locations": {
-              "~/Videos": "\uf015 <>\uf061</> \uf03d",
-              "~/Desktop": "\uf015 <>\uf061</> \uf108",
-              "~/Documents": "\uf015 <>\uf061</> \udb80\ude19",
-              "~/Downloads": "\uf015 <>\uf061</> \uf019",
-              "~/Pictures/": "\uf015 <>\uf061</> \uf03e",
-              "~/Music": "\uf015 <>\uf061</> \uf001"
+              "~/Videos": "\uf015 <#83A7CC>\uf061</> \uf03d",
+              "~/Desktop": "\uf015 <#83A7CC>\uf061</> \uf108",
+              "~/Documents": "\uf015 <#83A7CC>\uf061</> \udb80\ude19",
+              "~/Downloads": "\uf015 <#83A7CC>\uf061</> \uf019",
+              "~/Pictures/": "\uf015 <#83A7CC>\uf061</> \uf03e",
+              "~/Music": "\uf015 <#83A7CC>\uf061</> \uf001"
             }
           },
           "style": "diamond",
@@ -204,13 +204,13 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "",
+          "foreground": "#83A7CC",
           "style": "plain",
           "template": "\u2570\u2500",
           "type": "text"
         },
         {
-          "foreground": "",
+          "foreground": "#83A7CC",
           "properties": {
             "always_enabled": true
           },
@@ -230,7 +230,7 @@
   },
   "secondary_prompt": {
     "background": "transparent",
-    "foreground": "",
+    "foreground": "#83A7CC",
     "template": "\u2570\u2500\u276f "
   },
   "version": 3

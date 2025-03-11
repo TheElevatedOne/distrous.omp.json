@@ -6,7 +6,7 @@ def main():
     file_dir = op.dirname(op.dirname(op.expanduser(__file__)))
 
     with open(op.join(file_dir, "config.json")) as j:
-        cfg = list(js.load(j).keys())
+        cfg = js.load(j)
 
     template = """
 ### %name
@@ -45,9 +45,12 @@ def main():
     """
 
     previews_md = ""
-    for name in cfg:
+    for name, item in cfg.items():
+        if not item["generate"]:
+            continue
+
         previews_md += template.replace("%name", name).replace(
-            "%s_name", name.lower().replace(" ", "-")
+            "%s_name", name.lower().replace(" ", "-").replace("!", "").replace("?", "")
         )
 
     readme = open(op.join(file_dir, "PREVIEWS.md"), "w")

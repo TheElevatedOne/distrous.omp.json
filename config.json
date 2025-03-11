@@ -451,7 +451,7 @@
   },
   "Kubuntu": {
     "icon": "\uf333 KBNT",
-    "prompt_arr": "",
+    "prompt_arr": "#909FB9",
     "distro_bg": "#012766",
     "distro_fg": "#FFFFFF",
     "shell_bg": "#0063FF",
@@ -541,7 +541,7 @@
   },
   "Docker": {
     "icon": "\uf308 DCKR",
-    "prompt_arr": "",
+    "prompt_arr": "#83A7CC",
     "distro_bg": "#0050A2",
     "distro_fg": "#FFFFFF",
     "shell_bg": "#039CFD",

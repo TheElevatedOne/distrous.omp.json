@@ -891,34 +891,34 @@
     
 ### Pop!_OS
 
-> ![pop!_os-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop!_os.omp.json.png?raw=true)
+> ![pop_os-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop_os.omp.json.png?raw=true)
 
-**Link to file:** [distrous-pop!_os.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-pop!_os.omp.json?raw=true)
+**Link to file:** [distrous-pop_os.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-pop_os.omp.json?raw=true)
 
 <details>
     <summary>Extra</summary>
 
 - **General**
         
-    > ![pop!_os-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop!_os.omp.json-general.png?raw=true)
+    > ![pop_os-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop_os.omp.json-general.png?raw=true)
 
 - **Root**
 
-    > ![pop!_os-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop!_os.omp.json-root.png?raw=true)
+    > ![pop_os-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop_os.omp.json-root.png?raw=true)
 
 - **Unwritable Directory**
 
-    > ![pop!_os-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop!_os.omp.json-unwrite.png?raw=true)
+    > ![pop_os-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop_os.omp.json-unwrite.png?raw=true)
 
 - **Python**
 
     - **Script**
 
-        > ![pop!_os-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop!_os.omp.json-script.png?raw=true)
+        > ![pop_os-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop_os.omp.json-script.png?raw=true)
 
     - **Venv**
 
-        > ![pop!_os-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop!_os.omp.json-venv.png?raw=true)
+        > ![pop_os-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop_os.omp.json-venv.png?raw=true)
 
 </details>
 
@@ -1123,40 +1123,6 @@
     - **Venv**
 
         > ![linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux.omp.json-venv.png?raw=true)
-
-</details>
-
-    
-### Example
-
-> ![example-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-example.omp.json.png?raw=true)
-
-**Link to file:** [distrous-example.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-example.omp.json?raw=true)
-
-<details>
-    <summary>Extra</summary>
-
-- **General**
-        
-    > ![example-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-example.omp.json-general.png?raw=true)
-
-- **Root**
-
-    > ![example-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-example.omp.json-root.png?raw=true)
-
-- **Unwritable Directory**
-
-    > ![example-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-example.omp.json-unwrite.png?raw=true)
-
-- **Python**
-
-    - **Script**
-
-        > ![example-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-example.omp.json-script.png?raw=true)
-
-    - **Venv**
-
-        > ![example-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-example.omp.json-venv.png?raw=true)
 
 </details>
 
