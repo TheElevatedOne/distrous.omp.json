@@ -17,7 +17,7 @@ def main() -> None:
             op.join(
                 file_dir,
                 "themes",
-                f"distrous-{key.lower().replace(' ', '-')}.omp.json",
+                f"distrous-{key.lower().replace(' ', '-').replace('!', '').replace('?', '')}.omp.json",
             ),
             "w",
         )
