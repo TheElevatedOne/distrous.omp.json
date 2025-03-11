@@ -66,9 +66,16 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 ## Documentation
 
+- [**How to Configure**](#how-to-configure)
 - [**Bash Scripts**](#bash-scripts)
 - [**Python Scripts**](#python-scripts)
 - [**Config**](#config)
+
+### How to Configure
+
+1. Install `git, python3, oh-my-posh` and a text editor line `neovim`
+2. ```git clone https://github.com/TheElevatedOne/distrous.omp.json.git && cd distrous.omp.json```
+3. Configure
 
 ### Bash Scripts
 
