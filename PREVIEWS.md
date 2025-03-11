@@ -4,7 +4,6 @@
 
 ---
 
-
 ### Alma Linux
 
 > ![alma-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json.png?raw=true)
@@ -15,7 +14,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![alma-linux-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json-general.png?raw=true)
 
 - **Root**
@@ -28,17 +27,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![alma-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![alma-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alma-linux.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Alpine Linux
 
 > ![alpine-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json.png?raw=true)
@@ -49,7 +47,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![alpine-linux-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json-general.png?raw=true)
 
 - **Root**
@@ -62,17 +60,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![alpine-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![alpine-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-alpine-linux.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Android
 
 > ![android-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json.png?raw=true)
@@ -83,7 +80,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![android-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json-general.png?raw=true)
 
 - **Root**
@@ -96,17 +93,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![android-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![android-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-android.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### AOSC Linux
 
 > ![aosc-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json.png?raw=true)
@@ -117,7 +113,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![aosc-linux-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json-general.png?raw=true)
 
 - **Root**
@@ -130,17 +126,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![aosc-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![aosc-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-aosc-linux.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Arch Linux
 
 > ![arch-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json.png?raw=true)
@@ -151,7 +146,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![arch-linux-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json-general.png?raw=true)
 
 - **Root**
@@ -164,17 +159,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![arch-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![arch-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-arch-linux.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### CentOS
 
 > ![centos-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json.png?raw=true)
@@ -185,7 +179,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![centos-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json-general.png?raw=true)
 
 - **Root**
@@ -198,17 +192,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![centos-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![centos-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-centos.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### CoreOS
 
 > ![coreos-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json.png?raw=true)
@@ -219,7 +212,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![coreos-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json-general.png?raw=true)
 
 - **Root**
@@ -232,17 +225,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![coreos-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![coreos-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-coreos.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Debian
 
 > ![debian-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json.png?raw=true)
@@ -253,7 +245,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![debian-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json-general.png?raw=true)
 
 - **Root**
@@ -266,17 +258,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![debian-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![debian-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-debian.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Deepin
 
 > ![deepin-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json.png?raw=true)
@@ -287,7 +278,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![deepin-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json-general.png?raw=true)
 
 - **Root**
@@ -300,17 +291,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![deepin-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![deepin-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-deepin.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Devuan
 
 > ![devuan-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json.png?raw=true)
@@ -321,7 +311,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![devuan-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json-general.png?raw=true)
 
 - **Root**
@@ -334,17 +324,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![devuan-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![devuan-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-devuan.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### ElementaryOS
 
 > ![elementaryos-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json.png?raw=true)
@@ -355,7 +344,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![elementaryos-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json-general.png?raw=true)
 
 - **Root**
@@ -368,17 +357,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![elementaryos-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![elementaryos-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-elementaryos.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### EndeavourOS
 
 > ![endeavouros-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json.png?raw=true)
@@ -389,7 +377,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![endeavouros-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-general.png?raw=true)
 
 - **Root**
@@ -402,17 +390,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![endeavouros-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![endeavouros-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Fedora
 
 > ![fedora-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json.png?raw=true)
@@ -423,7 +410,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![fedora-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json-general.png?raw=true)
 
 - **Root**
@@ -436,17 +423,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![fedora-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![fedora-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-fedora.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Gentoo
 
 > ![gentoo-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json.png?raw=true)
@@ -457,7 +443,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![gentoo-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json-general.png?raw=true)
 
 - **Root**
@@ -470,17 +456,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![gentoo-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![gentoo-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-gentoo.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Mageia
 
 > ![mageia-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json.png?raw=true)
@@ -491,7 +476,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![mageia-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json-general.png?raw=true)
 
 - **Root**
@@ -504,17 +489,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![mageia-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![mageia-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-mageia.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Manjaro
 
 > ![manjaro-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json.png?raw=true)
@@ -525,7 +509,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![manjaro-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json-general.png?raw=true)
 
 - **Root**
@@ -538,17 +522,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![manjaro-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![manjaro-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-manjaro.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Linux Mint
 
 > ![linux-mint-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json.png?raw=true)
@@ -559,7 +542,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![linux-mint-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json-general.png?raw=true)
 
 - **Root**
@@ -572,17 +555,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![linux-mint-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![linux-mint-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux-mint.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### NixOS
 
 > ![nixos-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json.png?raw=true)
@@ -593,7 +575,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![nixos-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json-general.png?raw=true)
 
 - **Root**
@@ -606,17 +588,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![nixos-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![nixos-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-nixos.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### OpenSUSE
 
 > ![opensuse-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json.png?raw=true)
@@ -627,7 +608,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![opensuse-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json-general.png?raw=true)
 
 - **Root**
@@ -640,17 +621,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![opensuse-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![opensuse-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-opensuse.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Tumbleweed
 
 > ![tumbleweed-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json.png?raw=true)
@@ -661,7 +641,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![tumbleweed-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json-general.png?raw=true)
 
 - **Root**
@@ -674,17 +654,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![tumbleweed-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![tumbleweed-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-tumbleweed.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Raspbian
 
 > ![raspbian-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json.png?raw=true)
@@ -695,7 +674,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![raspbian-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json-general.png?raw=true)
 
 - **Root**
@@ -708,17 +687,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![raspbian-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![raspbian-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-raspbian.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Red Hat
 
 > ![red-hat-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json.png?raw=true)
@@ -729,7 +707,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![red-hat-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json-general.png?raw=true)
 
 - **Root**
@@ -742,17 +720,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![red-hat-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![red-hat-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-red-hat.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Rocky Linux
 
 > ![rocky-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json.png?raw=true)
@@ -763,7 +740,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![rocky-linux-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json-general.png?raw=true)
 
 - **Root**
@@ -776,17 +753,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![rocky-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![rocky-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-rocky-linux.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Slackware
 
 > ![slackware-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json.png?raw=true)
@@ -797,7 +773,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![slackware-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json-general.png?raw=true)
 
 - **Root**
@@ -810,17 +786,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![slackware-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![slackware-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-slackware.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Ubuntu
 
 > ![ubuntu-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json.png?raw=true)
@@ -831,7 +806,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![ubuntu-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json-general.png?raw=true)
 
 - **Root**
@@ -844,17 +819,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![ubuntu-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![ubuntu-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-ubuntu.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Kubuntu
 
 > ![kubuntu-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-kubuntu.omp.json.png?raw=true)
@@ -865,7 +839,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![kubuntu-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-kubuntu.omp.json-general.png?raw=true)
 
 - **Root**
@@ -878,17 +852,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![kubuntu-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-kubuntu.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![kubuntu-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-kubuntu.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Pop!_OS
 
 > ![pop_os-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop_os.omp.json.png?raw=true)
@@ -899,7 +872,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![pop_os-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop_os.omp.json-general.png?raw=true)
 
 - **Root**
@@ -912,17 +885,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![pop_os-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop_os.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![pop_os-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-pop_os.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Windows 10
 
 > ![windows-10-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-windows-10.omp.json.png?raw=true)
@@ -933,7 +905,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![windows-10-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-windows-10.omp.json-general.png?raw=true)
 
 - **Root**
@@ -946,17 +918,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![windows-10-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-windows-10.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![windows-10-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-windows-10.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Windows 11
 
 > ![windows-11-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-windows-11.omp.json.png?raw=true)
@@ -967,7 +938,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![windows-11-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-windows-11.omp.json-general.png?raw=true)
 
 - **Root**
@@ -980,17 +951,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![windows-11-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-windows-11.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![windows-11-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-windows-11.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### KDE Neon
 
 > ![kde-neon-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-kde-neon.omp.json.png?raw=true)
@@ -1001,7 +971,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![kde-neon-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-kde-neon.omp.json-general.png?raw=true)
 
 - **Root**
@@ -1014,17 +984,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![kde-neon-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-kde-neon.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![kde-neon-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-kde-neon.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Docker
 
 > ![docker-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-docker.omp.json.png?raw=true)
@@ -1035,7 +1004,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![docker-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-docker.omp.json-general.png?raw=true)
 
 - **Root**
@@ -1048,17 +1017,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![docker-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-docker.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![docker-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-docker.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Kali Linux
 
 > ![kali-linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-kali-linux.omp.json.png?raw=true)
@@ -1069,7 +1037,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![kali-linux-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-kali-linux.omp.json-general.png?raw=true)
 
 - **Root**
@@ -1082,17 +1050,16 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![kali-linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-kali-linux.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![kali-linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-kali-linux.omp.json-venv.png?raw=true)
 
 </details>
 
-    
 ### Linux
 
 > ![linux-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux.omp.json.png?raw=true)
@@ -1103,7 +1070,7 @@
     <summary>Extra</summary>
 
 - **General**
-        
+
     > ![linux-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux.omp.json-general.png?raw=true)
 
 - **Root**
@@ -1116,14 +1083,13 @@
 
 - **Python**
 
-    - **Script**
+  - **Script**
 
         > ![linux-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux.omp.json-script.png?raw=true)
 
-    - **Venv**
+  - **Venv**
 
         > ![linux-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-linux.omp.json-venv.png?raw=true)
 
 </details>
 
-    

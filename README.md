@@ -62,6 +62,40 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 > You may just say the name, or create a whole config part.
 > You can find the ***Example*** config in the Documentation section.
 
+- [**Alma Linux**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#alma-linux)
+- [**Alpine Linux**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#alpine-linux)
+- [**Android**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#android)
+- [**AOSC Linux**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#aosc-linux)
+- [**Arch Linux**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#arch-linux)
+- [**CentOS**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#centos)
+- [**CoreOS**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#coreos)
+- [**Debian**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#debian)
+- [**Deepin**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#deepin)
+- [**Devuan**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#devuan)
+- [**ElementaryOS**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#elementaryos)
+- [**EndeavourOS**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#endeavouros)
+- [**Fedora**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#fedora)
+- [**Gentoo**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#gentoo)
+- [**Mageia**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#mageia)
+- [**Manjaro**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#manjaro)
+- [**Linux Mint**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#linux-mint)
+- [**NixOS**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#nixos)
+- [**OpenSUSE**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#opensuse)
+- [**Tumbleweed**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#tumbleweed)
+- [**Raspbian**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#raspbian)
+- [**Red Hat**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#red-hat)
+- [**Rocky Linux**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#rocky-linux)
+- [**Slackware**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#slackware)
+- [**Ubuntu**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#ubuntu)
+- [**Kubuntu**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#kubuntu)
+- [**Pop!_OS**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#popos)
+- [**Windows 10**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#windows-10)
+- [**Windows 11**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#windows-11)
+- [**KDE Neon**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#kde-neon)
+- [**Docker**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#docker)
+- [**Kali Linux**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#kali-linux)
+- [**Linux**](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/PREVIEWS.md#linux)
+
 ---
 
 ## Documentation
