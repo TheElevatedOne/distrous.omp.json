@@ -1,6 +1,6 @@
 # distrous.omp.json
 
-![distrous-logo](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/logos/logo.png?raw=true)
+![distrous-logo](logos/logo.png)
 
 [**OhMyPosh**](https://ohmyposh.dev/) Theme with Distro-based Color schemes.
 
@@ -23,34 +23,34 @@ Based on [kushal.omp.json](https://github.com/JanDeDobbeleer/oh-my-posh/blob/mai
 
 ### EndeavourOS - Example
 
-> ![endeavouros-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json.png?raw=true)
+> ![endeavouros-preview](previews/distrous-endeavouros.omp.json.png)
 
-**Link to file:** [distrous-endeavouros.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-endeavouros.omp.json?raw=true)
+**Link to file:** [distrous-endeavouros.omp.json](themes/distrous-endeavouros.omp.json)
 
 <details>
     <summary>Extra</summary>
 
 - **General**
 
-    > ![endeavouros-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-general.png?raw=true)
+    > ![endeavouros-general](previews/distrous-endeavouros.omp.json-general.png)
 
 - **Root**
 
-    > ![endeavouros-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-root.png?raw=true)
+    > ![endeavouros-root](previews/distrous-endeavouros.omp.json-root.png)
 
 - **Unwritable Directory**
 
-    > ![endeavouros-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-unwrite.png?raw=true)
+    > ![endeavouros-unwrite](previews/distrous-endeavouros.omp.json-unwrite.png)
 
 - **Python**
 
   - **Script**
 
-        > ![endeavouros-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-script.png?raw=true)
+        > ![endeavouros-script](previews/distrous-endeavouros.omp.json-script.png)
 
   - **Venv**
 
-        > ![endeavouros-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-endeavouros.omp.json-venv.png?raw=true)
+        > ![endeavouros-venv](previews/distrous-endeavouros.omp.json-venv.png)
 
 </details>
 

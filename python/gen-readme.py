@@ -11,34 +11,34 @@ def main():
     template = """
 ### %name
 
-> ![%s_name-preview](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json.png?raw=true)
+> ![%s_name-preview](previews/distrous-%s_name.omp.json.png)
 
-**Link to file:** [distrous-%s_name.omp.json](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/themes/distrous-%s_name.omp.json?raw=true)
+**Link to file:** [distrous-%s_name.omp.json](themes/distrous-%s_name.omp.json)
 
 <details>
     <summary>Extra</summary>
 
 - **General**
         
-    > ![%s_name-general](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-general.png?raw=true)
+    > ![%s_name-general](previews/distrous-%s_name.omp.json-general.png)
 
 - **Root**
 
-    > ![%s_name-root](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-root.png?raw=true)
+    > ![%s_name-root](previews/distrous-%s_name.omp.json-root.png)
 
 - **Unwritable Directory**
 
-    > ![%s_name-unwrite](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-unwrite.png?raw=true)
+    > ![%s_name-unwrite](previews/distrous-%s_name.omp.json-unwrite.png)
 
 - **Python**
 
     - **Script**
 
-        > ![%s_name-script](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-script.png?raw=true)
+        > ![%s_name-script](previews/distrous-%s_name.omp.json-script.png)
 
     - **Venv**
 
-        > ![%s_name-venv](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/previews/distrous-%s_name.omp.json-venv.png?raw=true)
+        > ![%s_name-venv](previews/distrous-%s_name.omp.json-venv.png)
 
 </details>
 
