@@ -14,7 +14,18 @@ if ! command -v oh-my-posh 2>&1 >/dev/null; then
   exit 1
 fi
 
+# Progress Bar Data
+source $SCRIPT_DIR/bash_progress_bar/progress_bar.sh
+FILES=$(ls $SCRIPT_DIR/themes/ | wc -l)
+MIN=$(expr 100 / $FILES)
+COUNT=1
+enable_trapping
+ETA_ENABLED="true"
+setup_scroll_area "Generating" 100
+
 for theme in $(ls $SCRIPT_DIR/themes/); do
+  draw_progress_bar $(expr $COUNT \* $MIN) ""
+
   printf "${GREEN}[Generating Preview]${NC} $theme\n"
   oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme.png"
   cd ..
@@ -28,6 +39,10 @@ for theme in $(ls $SCRIPT_DIR/themes/); do
   source $SCRIPT_DIR/env/python_venv/bin/activate
   oh-my-posh --config "$SCRIPT_DIR/themes/$theme" config export image --author ELEVATED --background-color "#0d0f18" --output "$SCRIPT_DIR/previews/$theme-venv.png"
   deactivate
+
+  COUNT=$(expr $COUNT + 1)
 done
+
+destroy_scroll_area
 
 printf "\n"
