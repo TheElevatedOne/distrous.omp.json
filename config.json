@@ -577,7 +577,7 @@
   },
   "CachyOS": {
     "icon": "\uf17c CACHY",
-    "prompt_arr": "",
+    "prompt_arr": "#82C2B6",
     "distro_bg": "#00A988",
     "distro_fg": "#FFFFFF",
     "shell_bg": "#00CCFF",
