@@ -60,8 +60,8 @@
 
 oh-my-posh previews utility does not show the icons, dunno why.
 
-> [Font Patching](#font-patching)
->
+[Font Patching](#font-patching)
+
 > [cachyos-preview](previews/distrous-cachyos-icon.png)
 
 ---
