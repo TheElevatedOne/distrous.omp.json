@@ -106,6 +106,7 @@ oh-my-posh previews utility does not show the icons, dunno why.
 - [**Kali Linux**](PREVIEWS.md#kali-linux)
 - [**Cachy OS**](PREVIEWS.md#cachyos) -> Using [Font Patching](#font-patching)
 - [**Linux**](PREVIEWS.md#linux)
+- [**Xero Linux**](PREVIEWS.md#xero-linux) by [@SpiderPunkXL](https://github.com/SpiderPunkXL) (in an [Issue](https://github.com/TheElevatedOne/distrous.omp.json/issues/1))
 
 ---
 

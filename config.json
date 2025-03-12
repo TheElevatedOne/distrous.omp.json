@@ -611,6 +611,24 @@
     "unwritable_dir": "#FF6D6D",
     "generate": true
   },
+  "Xero Linux": {
+    "icon": "\uf34a XERO",
+    "prompt_arr": "#83A7CC",
+    "distro_bg": "#0C7BBB",
+    "distro_fg": "#FFFFFF",
+    "shell_bg": "#DA627D",
+    "shell_fg": "#FFFFFF",
+    "root_bg": "#8A62DA",
+    "root_fg": "#FFFFFF",
+    "pipe": "#17B5C8",
+    "time": "#F07ED9",
+    "date": "#CA7EF0",
+    "user": "#1F73CA",
+    "host": "#65B4E7",
+    "writable_dir": "#9FF07E",
+    "unwritable_dir": "#F0B07E",
+    "generate": true
+  },
   "Example": {
     "icon": "",
     "prompt_arr": "",

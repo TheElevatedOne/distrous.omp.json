@@ -1161,3 +1161,37 @@
 </details>
 
     
+### Xero Linux
+
+> ![xero-linux-preview](previews/distrous-xero-linux.omp.json.png)
+
+**Link to file:** [distrous-xero-linux.omp.json](themes/distrous-xero-linux.omp.json)
+
+<details>
+    <summary>Extra</summary>
+
+- **General**
+        
+    > ![xero-linux-general](previews/distrous-xero-linux.omp.json-general.png)
+
+- **Root**
+
+    > ![xero-linux-root](previews/distrous-xero-linux.omp.json-root.png)
+
+- **Unwritable Directory**
+
+    > ![xero-linux-unwrite](previews/distrous-xero-linux.omp.json-unwrite.png)
+
+- **Python**
+
+    - **Script**
+
+        > ![xero-linux-script](previews/distrous-xero-linux.omp.json-script.png)
+
+    - **Venv**
+
+        > ![xero-linux-venv](previews/distrous-xero-linux.omp.json-venv.png)
+
+</details>
+
+    
