@@ -15,9 +15,9 @@ This is a patch for those distros.
 1. Clone the directory via `git clone --recurse-submodules https://github.com/TheElevatedOne/distrous.omp.json`
 2. `cd custom-glyphs`
 3. You will see a bash script, a fontforge project and a glyph-dir
-  - If you want to edit the icons, open the fontforge project and save it to glyph-dir
+    - If you want to edit the icons, open the fontforge project and save it to glyph-dir
 4. Copy a NerdFont you use to this directory
-  - or to the `./fonts/` directory if you want to patch more at once
+    - or to the `./fonts/` directory if you want to patch more at once
 5. Run the script via the instructions
 
 ```
@@ -41,6 +41,6 @@ This is a patch for those distros.
 ```
 
 6. Run `./patch-font.sh <font-file> <font-name>`
-  - For my config I run `./patch-font.sh LiterationMonoNerdFontMono-Regular.ttf LiterationMonoCustom-Regular`
+    - For my config I run `./patch-font.sh LiterationMonoNerdFontMono-Regular.ttf LiterationMonoCustom-Regular`
 7. [RECOMMENED] Or run `./patch-font.sh -m fonts` for Multiple patches
-  - Best to use, since terminals use regular, italics and bold fonts
+    - Best to use, since terminals use regular, italics and bold fonts
