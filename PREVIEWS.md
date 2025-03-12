@@ -1,8 +1,9 @@
 # Previews
 
-![previews-logo](logos/previews.png)
+![previews-logo](https://github.com/TheElevatedOne/distrous.omp.json/blob/main/logos/previews.png?raw=true)
 
 ---
+
 
 ### Alma Linux
 
@@ -14,7 +15,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![alma-linux-general](previews/distrous-alma-linux.omp.json-general.png)
 
 - **Root**
@@ -27,16 +28,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![alma-linux-script](previews/distrous-alma-linux.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![alma-linux-venv](previews/distrous-alma-linux.omp.json-venv.png)
 
 </details>
 
+    
 ### Alpine Linux
 
 > ![alpine-linux-preview](previews/distrous-alpine-linux.omp.json.png)
@@ -47,7 +49,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![alpine-linux-general](previews/distrous-alpine-linux.omp.json-general.png)
 
 - **Root**
@@ -60,16 +62,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![alpine-linux-script](previews/distrous-alpine-linux.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![alpine-linux-venv](previews/distrous-alpine-linux.omp.json-venv.png)
 
 </details>
 
+    
 ### Android
 
 > ![android-preview](previews/distrous-android.omp.json.png)
@@ -80,7 +83,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![android-general](previews/distrous-android.omp.json-general.png)
 
 - **Root**
@@ -93,16 +96,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![android-script](previews/distrous-android.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![android-venv](previews/distrous-android.omp.json-venv.png)
 
 </details>
 
+    
 ### AOSC Linux
 
 > ![aosc-linux-preview](previews/distrous-aosc-linux.omp.json.png)
@@ -113,7 +117,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![aosc-linux-general](previews/distrous-aosc-linux.omp.json-general.png)
 
 - **Root**
@@ -126,16 +130,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![aosc-linux-script](previews/distrous-aosc-linux.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![aosc-linux-venv](previews/distrous-aosc-linux.omp.json-venv.png)
 
 </details>
 
+    
 ### Arch Linux
 
 > ![arch-linux-preview](previews/distrous-arch-linux.omp.json.png)
@@ -146,7 +151,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![arch-linux-general](previews/distrous-arch-linux.omp.json-general.png)
 
 - **Root**
@@ -159,16 +164,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![arch-linux-script](previews/distrous-arch-linux.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![arch-linux-venv](previews/distrous-arch-linux.omp.json-venv.png)
 
 </details>
 
+    
 ### CentOS
 
 > ![centos-preview](previews/distrous-centos.omp.json.png)
@@ -179,7 +185,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![centos-general](previews/distrous-centos.omp.json-general.png)
 
 - **Root**
@@ -192,16 +198,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![centos-script](previews/distrous-centos.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![centos-venv](previews/distrous-centos.omp.json-venv.png)
 
 </details>
 
+    
 ### CoreOS
 
 > ![coreos-preview](previews/distrous-coreos.omp.json.png)
@@ -212,7 +219,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![coreos-general](previews/distrous-coreos.omp.json-general.png)
 
 - **Root**
@@ -225,16 +232,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![coreos-script](previews/distrous-coreos.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![coreos-venv](previews/distrous-coreos.omp.json-venv.png)
 
 </details>
 
+    
 ### Debian
 
 > ![debian-preview](previews/distrous-debian.omp.json.png)
@@ -245,7 +253,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![debian-general](previews/distrous-debian.omp.json-general.png)
 
 - **Root**
@@ -258,16 +266,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![debian-script](previews/distrous-debian.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![debian-venv](previews/distrous-debian.omp.json-venv.png)
 
 </details>
 
+    
 ### Deepin
 
 > ![deepin-preview](previews/distrous-deepin.omp.json.png)
@@ -278,7 +287,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![deepin-general](previews/distrous-deepin.omp.json-general.png)
 
 - **Root**
@@ -291,16 +300,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![deepin-script](previews/distrous-deepin.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![deepin-venv](previews/distrous-deepin.omp.json-venv.png)
 
 </details>
 
+    
 ### Devuan
 
 > ![devuan-preview](previews/distrous-devuan.omp.json.png)
@@ -311,7 +321,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![devuan-general](previews/distrous-devuan.omp.json-general.png)
 
 - **Root**
@@ -324,16 +334,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![devuan-script](previews/distrous-devuan.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![devuan-venv](previews/distrous-devuan.omp.json-venv.png)
 
 </details>
 
+    
 ### ElementaryOS
 
 > ![elementaryos-preview](previews/distrous-elementaryos.omp.json.png)
@@ -344,7 +355,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![elementaryos-general](previews/distrous-elementaryos.omp.json-general.png)
 
 - **Root**
@@ -357,16 +368,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![elementaryos-script](previews/distrous-elementaryos.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![elementaryos-venv](previews/distrous-elementaryos.omp.json-venv.png)
 
 </details>
 
+    
 ### EndeavourOS
 
 > ![endeavouros-preview](previews/distrous-endeavouros.omp.json.png)
@@ -377,7 +389,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![endeavouros-general](previews/distrous-endeavouros.omp.json-general.png)
 
 - **Root**
@@ -390,16 +402,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![endeavouros-script](previews/distrous-endeavouros.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![endeavouros-venv](previews/distrous-endeavouros.omp.json-venv.png)
 
 </details>
 
+    
 ### Fedora
 
 > ![fedora-preview](previews/distrous-fedora.omp.json.png)
@@ -410,7 +423,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![fedora-general](previews/distrous-fedora.omp.json-general.png)
 
 - **Root**
@@ -423,16 +436,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![fedora-script](previews/distrous-fedora.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![fedora-venv](previews/distrous-fedora.omp.json-venv.png)
 
 </details>
 
+    
 ### Gentoo
 
 > ![gentoo-preview](previews/distrous-gentoo.omp.json.png)
@@ -443,7 +457,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![gentoo-general](previews/distrous-gentoo.omp.json-general.png)
 
 - **Root**
@@ -456,16 +470,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![gentoo-script](previews/distrous-gentoo.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![gentoo-venv](previews/distrous-gentoo.omp.json-venv.png)
 
 </details>
 
+    
 ### Mageia
 
 > ![mageia-preview](previews/distrous-mageia.omp.json.png)
@@ -476,7 +491,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![mageia-general](previews/distrous-mageia.omp.json-general.png)
 
 - **Root**
@@ -489,16 +504,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![mageia-script](previews/distrous-mageia.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![mageia-venv](previews/distrous-mageia.omp.json-venv.png)
 
 </details>
 
+    
 ### Manjaro
 
 > ![manjaro-preview](previews/distrous-manjaro.omp.json.png)
@@ -509,7 +525,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![manjaro-general](previews/distrous-manjaro.omp.json-general.png)
 
 - **Root**
@@ -522,16 +538,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![manjaro-script](previews/distrous-manjaro.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![manjaro-venv](previews/distrous-manjaro.omp.json-venv.png)
 
 </details>
 
+    
 ### Linux Mint
 
 > ![linux-mint-preview](previews/distrous-linux-mint.omp.json.png)
@@ -542,7 +559,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![linux-mint-general](previews/distrous-linux-mint.omp.json-general.png)
 
 - **Root**
@@ -555,16 +572,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![linux-mint-script](previews/distrous-linux-mint.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![linux-mint-venv](previews/distrous-linux-mint.omp.json-venv.png)
 
 </details>
 
+    
 ### NixOS
 
 > ![nixos-preview](previews/distrous-nixos.omp.json.png)
@@ -575,7 +593,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![nixos-general](previews/distrous-nixos.omp.json-general.png)
 
 - **Root**
@@ -588,16 +606,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![nixos-script](previews/distrous-nixos.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![nixos-venv](previews/distrous-nixos.omp.json-venv.png)
 
 </details>
 
+    
 ### OpenSUSE
 
 > ![opensuse-preview](previews/distrous-opensuse.omp.json.png)
@@ -608,7 +627,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![opensuse-general](previews/distrous-opensuse.omp.json-general.png)
 
 - **Root**
@@ -621,16 +640,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![opensuse-script](previews/distrous-opensuse.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![opensuse-venv](previews/distrous-opensuse.omp.json-venv.png)
 
 </details>
 
+    
 ### Tumbleweed
 
 > ![tumbleweed-preview](previews/distrous-tumbleweed.omp.json.png)
@@ -641,7 +661,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![tumbleweed-general](previews/distrous-tumbleweed.omp.json-general.png)
 
 - **Root**
@@ -654,16 +674,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![tumbleweed-script](previews/distrous-tumbleweed.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![tumbleweed-venv](previews/distrous-tumbleweed.omp.json-venv.png)
 
 </details>
 
+    
 ### Raspbian
 
 > ![raspbian-preview](previews/distrous-raspbian.omp.json.png)
@@ -674,7 +695,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![raspbian-general](previews/distrous-raspbian.omp.json-general.png)
 
 - **Root**
@@ -687,16 +708,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![raspbian-script](previews/distrous-raspbian.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![raspbian-venv](previews/distrous-raspbian.omp.json-venv.png)
 
 </details>
 
+    
 ### Red Hat
 
 > ![red-hat-preview](previews/distrous-red-hat.omp.json.png)
@@ -707,7 +729,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![red-hat-general](previews/distrous-red-hat.omp.json-general.png)
 
 - **Root**
@@ -720,16 +742,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![red-hat-script](previews/distrous-red-hat.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![red-hat-venv](previews/distrous-red-hat.omp.json-venv.png)
 
 </details>
 
+    
 ### Rocky Linux
 
 > ![rocky-linux-preview](previews/distrous-rocky-linux.omp.json.png)
@@ -740,7 +763,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![rocky-linux-general](previews/distrous-rocky-linux.omp.json-general.png)
 
 - **Root**
@@ -753,16 +776,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![rocky-linux-script](previews/distrous-rocky-linux.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![rocky-linux-venv](previews/distrous-rocky-linux.omp.json-venv.png)
 
 </details>
 
+    
 ### Slackware
 
 > ![slackware-preview](previews/distrous-slackware.omp.json.png)
@@ -773,7 +797,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![slackware-general](previews/distrous-slackware.omp.json-general.png)
 
 - **Root**
@@ -786,16 +810,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![slackware-script](previews/distrous-slackware.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![slackware-venv](previews/distrous-slackware.omp.json-venv.png)
 
 </details>
 
+    
 ### Ubuntu
 
 > ![ubuntu-preview](previews/distrous-ubuntu.omp.json.png)
@@ -806,7 +831,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![ubuntu-general](previews/distrous-ubuntu.omp.json-general.png)
 
 - **Root**
@@ -819,16 +844,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![ubuntu-script](previews/distrous-ubuntu.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![ubuntu-venv](previews/distrous-ubuntu.omp.json-venv.png)
 
 </details>
 
+    
 ### Kubuntu
 
 > ![kubuntu-preview](previews/distrous-kubuntu.omp.json.png)
@@ -839,7 +865,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![kubuntu-general](previews/distrous-kubuntu.omp.json-general.png)
 
 - **Root**
@@ -852,16 +878,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![kubuntu-script](previews/distrous-kubuntu.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![kubuntu-venv](previews/distrous-kubuntu.omp.json-venv.png)
 
 </details>
 
+    
 ### Pop!_OS
 
 > ![pop_os-preview](previews/distrous-pop_os.omp.json.png)
@@ -872,7 +899,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![pop_os-general](previews/distrous-pop_os.omp.json-general.png)
 
 - **Root**
@@ -885,16 +912,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![pop_os-script](previews/distrous-pop_os.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![pop_os-venv](previews/distrous-pop_os.omp.json-venv.png)
 
 </details>
 
+    
 ### Windows 10
 
 > ![windows-10-preview](previews/distrous-windows-10.omp.json.png)
@@ -905,7 +933,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![windows-10-general](previews/distrous-windows-10.omp.json-general.png)
 
 - **Root**
@@ -918,16 +946,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![windows-10-script](previews/distrous-windows-10.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![windows-10-venv](previews/distrous-windows-10.omp.json-venv.png)
 
 </details>
 
+    
 ### Windows 11
 
 > ![windows-11-preview](previews/distrous-windows-11.omp.json.png)
@@ -938,7 +967,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![windows-11-general](previews/distrous-windows-11.omp.json-general.png)
 
 - **Root**
@@ -951,16 +980,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![windows-11-script](previews/distrous-windows-11.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![windows-11-venv](previews/distrous-windows-11.omp.json-venv.png)
 
 </details>
 
+    
 ### KDE Neon
 
 > ![kde-neon-preview](previews/distrous-kde-neon.omp.json.png)
@@ -971,7 +1001,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![kde-neon-general](previews/distrous-kde-neon.omp.json-general.png)
 
 - **Root**
@@ -984,16 +1014,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![kde-neon-script](previews/distrous-kde-neon.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![kde-neon-venv](previews/distrous-kde-neon.omp.json-venv.png)
 
 </details>
 
+    
 ### Docker
 
 > ![docker-preview](previews/distrous-docker.omp.json.png)
@@ -1004,7 +1035,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![docker-general](previews/distrous-docker.omp.json-general.png)
 
 - **Root**
@@ -1017,16 +1048,17 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![docker-script](previews/distrous-docker.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![docker-venv](previews/distrous-docker.omp.json-venv.png)
 
 </details>
 
+    
 ### Kali Linux
 
 > ![kali-linux-preview](previews/distrous-kali-linux.omp.json.png)
@@ -1037,7 +1069,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![kali-linux-general](previews/distrous-kali-linux.omp.json-general.png)
 
 - **Root**
@@ -1050,16 +1082,51 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![kali-linux-script](previews/distrous-kali-linux.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![kali-linux-venv](previews/distrous-kali-linux.omp.json-venv.png)
 
 </details>
 
+    
+### CachyOS
+
+> ![cachyos-preview](previews/distrous-cachyos.omp.json.png)
+
+**Link to file:** [distrous-cachyos.omp.json](themes/distrous-cachyos.omp.json)
+
+<details>
+    <summary>Extra</summary>
+
+- **General**
+        
+    > ![cachyos-general](previews/distrous-cachyos.omp.json-general.png)
+
+- **Root**
+
+    > ![cachyos-root](previews/distrous-cachyos.omp.json-root.png)
+
+- **Unwritable Directory**
+
+    > ![cachyos-unwrite](previews/distrous-cachyos.omp.json-unwrite.png)
+
+- **Python**
+
+    - **Script**
+
+        > ![cachyos-script](previews/distrous-cachyos.omp.json-script.png)
+
+    - **Venv**
+
+        > ![cachyos-venv](previews/distrous-cachyos.omp.json-venv.png)
+
+</details>
+
+    
 ### Linux
 
 > ![linux-preview](previews/distrous-linux.omp.json.png)
@@ -1070,7 +1137,7 @@
     <summary>Extra</summary>
 
 - **General**
-
+        
     > ![linux-general](previews/distrous-linux.omp.json-general.png)
 
 - **Root**
@@ -1083,13 +1150,14 @@
 
 - **Python**
 
-  - **Script**
+    - **Script**
 
         > ![linux-script](previews/distrous-linux.omp.json-script.png)
 
-  - **Venv**
+    - **Venv**
 
         > ![linux-venv](previews/distrous-linux.omp.json-venv.png)
 
 </details>
 
+    

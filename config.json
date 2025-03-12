@@ -575,6 +575,24 @@
     "unwritable_dir": "#EC866F",
     "generate": true
   },
+  "CachyOS": {
+    "icon": "\uf17c CACHY",
+    "prompt_arr": "",
+    "distro_bg": "#00A988",
+    "distro_fg": "#FFFFFF",
+    "shell_bg": "#00CCFF",
+    "shell_fg": "#000000",
+    "root_bg": "#00755E",
+    "root_fg": "#FFFFFF",
+    "pipe": "#6EACBC",
+    "time": "#AEBE00",
+    "date": "#BE7300",
+    "user": "#14FFD1",
+    "host": "#3BD8FF",
+    "writable_dir": "#01E600",
+    "unwritable_dir": "#E62E00",
+    "generate": true
+  },
   "Linux": {
     "icon": "\uf17c LINUX",
     "prompt_arr": "#FFFFFF",
