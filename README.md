@@ -208,6 +208,7 @@ You can find more information at [**FONT_PATCHING.md**](custom-glyphs/FONT_PATCH
 
 ## Additional Information
 
+- Looking at Issues and Updating the theme will be a "once a week/once per two weeks" thing as this is not my main project.
 - The Font used in previews and the Logo is **Liberation Mono Nerd Font** [<ins>*NerdFonts.com Download*</ins>](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/LiberationMono.zip)
 - To show custom unicode icons you need a patched font from [nerdfonts.com](https://www.nerdfonts.com/font-downloads).
 - I use Neovim and Gpick for editing the config and picking the color scheme
