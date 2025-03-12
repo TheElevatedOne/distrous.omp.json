@@ -56,6 +56,14 @@
 
 </details>
 
+### CachyOS - Custom Icons Example
+
+oh-my-posh previews utility does not show the icons, dunno why.
+
+> [Font Patching](#font-patching)
+>
+> [cachyos-preview](previews/distrous-cachyos-icon.png)
+
 ---
 
 ## Distros
@@ -96,7 +104,7 @@
 - [**KDE Neon**](PREVIEWS.md#kde-neon)
 - [**Docker**](PREVIEWS.md#docker)
 - [**Kali Linux**](PREVIEWS.md#kali-linux)
-- [**Cachy OS**](PREVIEWS.md#cachyos) `nerd icon does not seem to exist, so default linux it is`
+- [**Cachy OS**](PREVIEWS.md#cachyos) -> Using [Font Patching](#font-patching)
 - [**Linux**](PREVIEWS.md#linux)
 
 ---
@@ -187,6 +195,14 @@ git clone --recurse-submodules https://github.com/TheElevatedOne/distrous.omp.js
 
 > Secondary and Tertiary colors do not need to be from distro.
 > They can be created by you based on the distro color/s
+
+### Font Patching
+
+Some Distros do not have their icon in the NerdFonts project,
+
+And since their addition rate is slow, I made it so you can patch your own.
+
+You can find more information at [**FONT_PATCHING.md**](custom-glyphs/FONT_PATCHING.md).
 
 ---
 

@@ -17,14 +17,20 @@ This is a patch for those distros.
 3. You will see a bash script, a fontforge project and a glyph-dir
   - If you want to edit the icons, open the fontforge project and save it to glyph-dir
 4. Copy a NerdFont you use to this directory
+  - or to the `./fonts/` directory if you want to patch more at once
 5. Run the script via the instructions
 
 ```
-> patch-font.sh [-h|--help] [font-file] [font-name]
+> patch-font.sh [-h|--help] [-m] [font-file] [font-name]
   ---------------------------------------------------
   [font-file] ↦ '.otf', '.ttf' font file path
   [font-name] ↦ output filename (without spaces)
               ↳ not required
+  ---------------------------------------------------
+  [-m] ↦ Multiple files trigger
+  [font-file] ↦ directory of '.ttf', '.otf' files
+              ↳ in the same basedir; without '/' at the end
+  [font-name] ↦ CANNOT BE USED
   ---------------------------------------------------
   Asks User to install required packages.
   > Packages: curl, unzip, fontforge, python3
@@ -35,6 +41,6 @@ This is a patch for those distros.
 ```
 
 6. Run `./patch-font.sh <font-file> <font-name>`
-
-- For my config I run `./patch-font.sh LiterationMonoNerdFontMono-Regular.ttf LiterationMonoCustom-Regular`
-- If you don't input a name, the font will be named `PatchedFont`
+  - For my config I run `./patch-font.sh LiterationMonoNerdFontMono-Regular.ttf LiterationMonoCustom-Regular`
+7. [RECOMMENED] Or run `./patch-font.sh -m fonts` for Multiple patches
+  - Best to use, since terminals use regular, italics and bold fonts

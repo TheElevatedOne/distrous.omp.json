@@ -6,7 +6,7 @@ Weight: Book
 Copyright: Copyright (c) 2014-2024, Lukas W
 Version: 1.3.0
 ItalicAngle: 0
-UnderlinePosition: -50
+UnderlinePosition: -49
 UnderlineWidth: 25
 Ascent: 410
 Descent: 102
@@ -15,14 +15,14 @@ sfntRevision: 0x00014ccc
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 920 -1476719002 14022740]
+XUID: [1021 920 -1476719002 4776880]
 StyleMap: 0x0000
 FSType: 0
 OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1730102227
-ModificationTime: 1741773738
+ModificationTime: 1741787923
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -63,7 +63,7 @@ EndShort
 ShortTable: maxp 16
   1
   0
-  134
+  135
   2257
   70
   0
@@ -156,6 +156,7 @@ SplineSet
  34 324 l 1,7,-1
  34 17 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: .null
@@ -164,6 +165,8 @@ Width: 0
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: nonmarkingreturn
@@ -172,6 +175,8 @@ Width: 170
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: space
@@ -180,6 +185,8 @@ Width: 200
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: Alpine
@@ -248,9 +255,10 @@ SplineSet
  293 167 l 1,77,-1
  290 164 l 1,74,-1
 EndSplineSet
+Validated: 5
 EndChar
 
-StartChar: AOSC OS
+StartChar: AOSC
 Encoding: 62209 62209 5
 Width: 497
 GlyphClass: 1
@@ -294,6 +302,7 @@ SplineSet
  158 178 158 178 170 198 c 1,42,-1
  87 241 l 1,27,28
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Apple
@@ -337,9 +346,10 @@ SplineSet
  303 409 303 409 323 410 c 1,53,54
  323 405 323 405 323 400 c 0,42,43
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: Arch Linux
+StartChar: Arch
 Encoding: 62211 62211 7
 Width: 512
 GlyphClass: 1
@@ -403,6 +413,7 @@ SplineSet
  498 -46 l 1,66,-1
  498 -46 l 1,49,-1
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: CentOS
@@ -625,6 +636,7 @@ SplineSet
  111 19 l 1,228,-1
  211 122 l 1,221,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: CoreOS
@@ -674,6 +686,7 @@ SplineSet
  217 208 217 208 220 224 c 0,52,53
  231 267 231 267 248 267 c 0,35,36
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Debian
@@ -923,6 +936,7 @@ SplineSet
  256 138 256 138 244 140 c 1,344,-1
  244 140 l 1,336,337
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: Devuan
@@ -960,6 +974,7 @@ SplineSet
  139 356 139 356 0 390 c 1,0,1
 0 390 m 1024,31,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Docker
@@ -1343,9 +1358,10 @@ SplineSet
  90 10 90 10 167 9 c 0,326,327
  174 9 174 9 181 9 c 1,316,317
 EndSplineSet
+Validated: 37
 EndChar
 
-StartChar: elementary OS
+StartChar: elementary
 Encoding: 62217 62217 13
 Width: 512
 GlyphClass: 1
@@ -1408,6 +1424,7 @@ SplineSet
  490 57 490 57 490 154 c 0,85,86
  490 170 490 170 488 185 c 1,69,70
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Fedora
@@ -1474,9 +1491,10 @@ SplineSet
  391 259 391 259 366 282 c 128,-1,71
  341 305 341 305 308 305 c 0,13,14
 EndSplineSet
+Validated: 2097185
 EndChar
 
-StartChar: Fedora (inverse)
+StartChar: Fedora
 Encoding: 62219 62219 15
 Width: 512
 GlyphClass: 1
@@ -1562,6 +1580,7 @@ SplineSet
  231 265 231 265 254.5 285 c 128,-1,113
  278 305 278 305 308 305 c 0,55,56
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: FreeBSD
@@ -1604,6 +1623,7 @@ SplineSet
  317 321 317 321 373.5 347.5 c 128,-1,32
  430 374 430 374 446 358 c 128,-1,33
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Gentoo
@@ -1709,9 +1729,10 @@ SplineSet
  196 261 196 261 212 285 c 0,135,136
  216 291 216 291 225 291 c 0,125,126
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: Linux Mint
+StartChar: Linux
 Encoding: 62222 62222 18
 Width: 491
 GlyphClass: 1
@@ -1786,9 +1807,10 @@ SplineSet
  210 222 210 222 229 241 c 128,-1,80
  248 260 248 260 274 260 c 0,34,35
 EndSplineSet
+Validated: 2097157
 EndChar
 
-StartChar: Linux Mint (inverse)
+StartChar: Linux
 Encoding: 62223 62223 19
 Width: 512
 GlyphClass: 1
@@ -1875,6 +1897,7 @@ SplineSet
  182 293 l 1,93,-1
  144 293 l 1,47,-1
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: Mageia
@@ -1954,6 +1977,7 @@ SplineSet
  211 133 211 133 163 133 c 128,-1,74
  115 133 115 133 67 159 c 1,62,63
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: Mandriva
@@ -2089,6 +2113,7 @@ SplineSet
  56 255 56 255 52 250 c 1,143,-1
  52 250 l 1,124,125
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: Manjaro
@@ -2119,6 +2144,7 @@ SplineSet
  0 -102 l 1,15,-1
  0 410 l 1,8,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: NixOS
@@ -2200,6 +2226,7 @@ SplineSet
  368 71 l 1,62,-1
  311 71 l 1,54,-1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: OpenSUSE
@@ -2348,9 +2375,10 @@ SplineSet
  389 7 389 7 388 7 c 1,194,-1
  388 7 l 1,155,156
 EndSplineSet
+Validated: 37
 EndChar
 
-StartChar: Raspberry pi
+StartChar: Raspberry
 Encoding: 62229 62229 25
 Width: 401
 GlyphClass: 1
@@ -2612,9 +2640,10 @@ SplineSet
  255 -43 255 -43 239 -37.5 c 128,-1,401
  223 -32 223 -32 205 -32 c 0,388,389
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: Red Hat
+StartChar: Red
 Encoding: 62230 62230 26
 Width: 512
 GlyphClass: 1
@@ -2788,6 +2817,7 @@ SplineSet
  502 24 l 1,244,-1
  502 27 l 1,239,-1
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: Sabayon
@@ -2884,6 +2914,7 @@ SplineSet
  75 118 75 118 59 127 c 0,113,114
  58 127 58 127 48 127 c 1,106,107
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Slackware
@@ -2962,9 +2993,10 @@ SplineSet
  94 108 94 108 89 109 c 2,106,-1
  78 109 l 2,89,90
 EndSplineSet
+Validated: 2097185
 EndChar
 
-StartChar: Slackware (inverse)
+StartChar: Slackware
 Encoding: 62233 62233 29
 Width: 512
 GlyphClass: 1
@@ -3049,6 +3081,7 @@ SplineSet
  72 108 72 108 77 109 c 2,113,114
  77 109 77 109 78 109 c 2,97,-1
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: Tux
@@ -3304,6 +3337,7 @@ SplineSet
  336 15 336 15 323 27 c 0,393,394
  315 37 315 37 319 54 c 0,357,358
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Ubuntu
@@ -3369,9 +3403,10 @@ SplineSet
  268 19 268 19 288 39 c 128,-1,60
  308 59 308 59 336 59 c 128,-1,61
 EndSplineSet
+Validated: 2097185
 EndChar
 
-StartChar: Ubuntu (inverse)
+StartChar: Ubuntu
 Encoding: 62236 62236 32
 Width: 512
 GlyphClass: 1
@@ -3443,9 +3478,10 @@ SplineSet
  376 39 376 39 359.5 55.5 c 128,-1,68
  343 72 343 72 319.5 72 c 128,-1,69
 EndSplineSet
+Validated: 2097189
 EndChar
 
-StartChar: Alma Linux
+StartChar: Alma
 Encoding: 62237 62237 33
 Width: 512
 GlyphClass: 1
@@ -3624,6 +3660,7 @@ SplineSet
  147 406 147 406 160.5 396 c 128,-1,256
  174 386 174 386 176 372 c 0,245,246
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: ArchLabs
@@ -3667,9 +3704,10 @@ SplineSet
  204 122 204 122 220.5 149.5 c 128,-1,39
  237 177 237 177 268 197 c 1,20,21
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: Artix Linux
+StartChar: Artix
 Encoding: 62239 62239 35
 Width: 499
 GlyphClass: 1
@@ -3690,6 +3728,7 @@ SplineSet
  304 -33 l 1,8,-1
  430 39 l 1,6,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Budgie
@@ -3759,6 +3798,7 @@ SplineSet
  337 210 337 210 341.5 214.5 c 128,-1,68
  346 219 346 219 353 219 c 128,-1,69
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Deepin
@@ -3875,9 +3915,10 @@ SplineSet
  189 -47 189 -47 137 -43 c 1,141,142
  157 -55 157 -55 177 -62 c 0,21,22
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: Endeavour OS
+StartChar: Endeavour
 Encoding: 62242 62242 38
 Width: 509
 GlyphClass: 1
@@ -3941,6 +3982,7 @@ SplineSet
  211 241 211 241 247 297 c 0,91,92
  285 355 285 355 295 368 c 2,54,55
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Ferris
@@ -4136,6 +4178,7 @@ SplineSet
  150 53 150 53 154 57 c 1,257,258
  143 59 143 59 133 61 c 1,253,254
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: Flathub
@@ -4221,9 +4264,10 @@ SplineSet
  256 186 256 186 256.5 186 c 128,-1,70
  257 186 257 186 312.5 222 c 128,-1,71
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: GNU Guix
+StartChar: GNU
 Encoding: 62245 62245 41
 Width: 500
 GlyphClass: 1
@@ -4269,6 +4313,7 @@ SplineSet
  15 261 15 261 0 299 c 1,63,64
  5 301 5 301 16 305 c 1,0,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: illumos
@@ -4408,9 +4453,10 @@ SplineSet
  12 405 12 405 12 410 c 1,0,1
 132 -51 m 1024,222,-1
 EndSplineSet
+Validated: 37
 EndChar
 
-StartChar: Kali Linux
+StartChar: Kali
 Encoding: 62247 62247 43
 Width: 683
 GlyphClass: 1
@@ -4560,6 +4606,7 @@ SplineSet
  53 410 53 410 68 410 c 0,236,237
  73 410 73 410 107 410 c 0,0,1
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: OpenBSD
@@ -6073,9 +6120,10 @@ SplineSet
  371 201 371 201 371 202 c 1,2255,2256
  372 202 372 202 382 203 c 0,2240,2241
 EndSplineSet
+Validated: 165
 EndChar
 
-StartChar: Parrot OS
+StartChar: Parrot
 Encoding: 62249 62249 45
 Width: 353
 GlyphClass: 1
@@ -6098,6 +6146,7 @@ SplineSet
  0 297 l 1,12,-1
  3 395 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Pop!_OS
@@ -6177,9 +6226,10 @@ SplineSet
  366 0 366 0 359 0 c 2,98,-1
  153 0 l 2,85,86
 EndSplineSet
+Validated: 545
 EndChar
 
-StartChar: Rocky Linux
+StartChar: Rocky
 Encoding: 62251 62251 47
 Width: 512
 GlyphClass: 1
@@ -6203,6 +6253,7 @@ SplineSet
  333 106 l 1,17,-1
  451 -12 l 1,11,12
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Snappy
@@ -6383,6 +6434,7 @@ SplineSet
  252 154 l 1,155,-1
  297 176 l 1,141,-1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: Solus
@@ -6462,6 +6514,7 @@ SplineSet
  448 155 448 155 388 177 c 0,104,105
  359 187 359 187 328 196 c 1,96,97
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Void
@@ -6504,9 +6557,10 @@ SplineSet
  217 75 217 75 193.5 98 c 128,-1,32
  170 121 170 121 170 154 c 128,-1,33
 EndSplineSet
+Validated: 1
 EndChar
 
-StartChar: Zorin OS
+StartChar: Zorin
 Encoding: 62255 62255 51
 Width: 500
 GlyphClass: 1
@@ -6539,6 +6593,7 @@ SplineSet
  125 -60 l 1,19,-1
  87 6 l 1,15,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Codeberg
@@ -6599,9 +6654,10 @@ SplineSet
  354 -86 l 1,51,-1
  350 -72 l 1,47,-1
 EndSplineSet
+Validated: 1
 EndChar
 
-StartChar: KDE Neon
+StartChar: KDE
 Encoding: 62257 62257 53
 Width: 512
 GlyphClass: 1
@@ -6711,9 +6767,10 @@ SplineSet
  230 92 230 92 212 110 c 128,-1,144
  194 128 194 128 194 154 c 128,-1,145
 EndSplineSet
+Validated: 2097153
 EndChar
 
-StartChar: KDE Plasma
+StartChar: KDE
 Encoding: 62258 62258 54
 Width: 372
 GlyphClass: 1
@@ -6757,6 +6814,7 @@ SplineSet
  93 34 93 34 106.5 47.5 c 128,-1,23
  120 61 120 61 139.5 61 c 128,-1,24
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: Kubuntu
@@ -6870,9 +6928,10 @@ SplineSet
  88 -33 88 -33 87 -33 c 0,132,90
  85 -33 85 -33 67 -15.5 c 128,-1,91
 EndSplineSet
+Validated: 2097185
 EndChar
 
-StartChar: Kubuntu (inverse)
+StartChar: Kubuntu
 Encoding: 62260 62260 56
 Width: 512
 GlyphClass: 1
@@ -6956,6 +7015,7 @@ SplineSet
  454 109 454 109 452 111 c 2,101,-1
  377 127 l 1,71,72
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: Forgejo
@@ -7027,6 +7087,7 @@ SplineSet
  87 -29 87 -29 80 -22 c 128,-1,61
  73 -15 73 -15 62 -15 c 128,-1,62
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: FreeCAD
@@ -7082,9 +7143,10 @@ SplineSet
  346 325 l 1,58,-1
  86 325 l 1,49,-1
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: Garuda Linux
+StartChar: Garuda
 Encoding: 62263 62263 59
 Width: 499
 GlyphClass: 1
@@ -7173,6 +7235,7 @@ SplineSet
  423 243 423 243 424 239 c 1,90,91
  431 240 431 240 438 253 c 1,86,87
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: GIMP
@@ -7307,6 +7370,7 @@ SplineSet
  175 182 175 182 162 174 c 0,179,180
  156 170 156 170 148 171 c 0,169,170
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Gitea
@@ -7420,9 +7484,10 @@ SplineSet
  294 187 294 187 298 195 c 128,-1,152
  302 203 302 203 305 208 c 1,100,101
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: Hyperbola GNU/Linux-libre
+StartChar: Hyperbola
 Encoding: 62266 62266 62
 Width: 502
 GlyphClass: 1
@@ -7454,6 +7519,7 @@ SplineSet
  231 266 231 266 270 360 c 0,27,28
  271 362 271 362 272 364 c 1,14,15
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Inkscape
@@ -7549,6 +7615,7 @@ SplineSet
  423 -40 423 -40 412 -29 c 128,-1,106
  401 -18 401 -18 416 -3 c 1,100,101
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Kdenlive
@@ -7623,6 +7690,7 @@ SplineSet
  164 -5 l 1,55,-1
  164 16 l 1,52,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Krita
@@ -7695,9 +7763,10 @@ SplineSet
  102 82 102 82 87 98.5 c 128,-1,84
  72 115 72 115 65 130 c 1,65,-1
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: LXLE Linux
+StartChar: LXLE
 Encoding: 62270 62270 66
 Width: 509
 GlyphClass: 1
@@ -7780,9 +7849,10 @@ SplineSet
  465 323 465 323 435 308 c 0,96,97
  434 308 434 308 427 311 c 0,84,85
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: MX Linux
+StartChar: MX
 Encoding: 62271 62271 67
 Width: 508
 GlyphClass: 1
@@ -7861,9 +7931,10 @@ SplineSet
  322 -11 322 -11 330.5 -1 c 128,-1,99
  339 9 339 9 343 14 c 1,89,90
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: Parabola GNU/Linux-libre
+StartChar: Parabola
 Encoding: 62272 62272 68
 Width: 512
 GlyphClass: 1
@@ -7896,9 +7967,10 @@ SplineSet
  92 244 92 244 0 210 c 1,27,28
  100 266 100 266 212 312 c 1,24,-1
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: Puppy Linux
+StartChar: Puppy
 Encoding: 62273 62273 69
 Width: 505
 GlyphClass: 1
@@ -8026,6 +8098,7 @@ SplineSet
  250 128 250 128 294.5 141 c 128,-1,178
  339 154 339 154 363 161 c 0,140,141
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: QubesOS
@@ -8109,6 +8182,7 @@ SplineSet
  242 290 242 290 234.5 293 c 128,-1,96
  227 296 227 296 220 296 c 2,52,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Tails
@@ -8252,9 +8326,10 @@ SplineSet
  189 105 189 105 146.5 140 c 128,-1,186
  104 175 104 175 98 180 c 1,176,177
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: Trisquel GNU/Linux
+StartChar: Trisquel
 Encoding: 62276 62276 72
 Width: 513
 GlyphClass: 1
@@ -8393,6 +8468,7 @@ SplineSet
  336 384 l 1,194,-1
 329 378 m 1024,196,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Archcraft
@@ -8498,6 +8574,7 @@ SplineSet
  226 44 226 44 235.5 53.5 c 128,-1,101
  245 63 245 63 258.5 63 c 128,-1,102
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: ArcoLinux
@@ -8532,6 +8609,7 @@ SplineSet
  48 -91 48 -91 26 -91 c 128,-1,31
  4 -91 4 -91 0 -91 c 1,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: BigLinux
@@ -8649,9 +8727,10 @@ SplineSet
  229 205 229 205 242 205 c 0,135,136
  243 205 243 205 243 205 c 2,117,118
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: Crystal Linux
+StartChar: Crystal
 Encoding: 62280 62280 76
 Width: 327
 GlyphClass: 1
@@ -8675,6 +8754,7 @@ SplineSet
  0 154 l 1,12,-1
  256 410 l 1,6,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Loc-OS
@@ -8791,6 +8871,7 @@ SplineSet
  324 177 324 177 260 180 c 0,135,136
 358 176 m 1024,147,-1
 EndSplineSet
+Validated: 549
 EndChar
 
 StartChar: XeroLinux
@@ -8959,6 +9040,7 @@ SplineSet
  373 -44 373 -44 310 -31 c 1,206,207
  317 -1 317 -1 311 38 c 1,182,183
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: Arduino
@@ -9028,6 +9110,7 @@ SplineSet
  90 142 l 1,74,-1
  90 166 l 1,71,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: KiCad
@@ -9104,6 +9187,7 @@ SplineSet
  371 183 371 183 369 185.5 c 128,-1,84
  367 188 367 188 365 190 c 1,47,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Octoprint
@@ -9135,6 +9219,7 @@ SplineSet
  -10 133 -10 133 10 203 c 0,32,33
  26 258 26 258 84 311 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: OpenSCAD
@@ -9261,6 +9346,7 @@ SplineSet
  63 148 63 148 47 150 c 0,185,186
  43 150 43 150 41 150 c 0,166,167
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: OSH
@@ -9347,6 +9433,7 @@ SplineSet
  512 164 512 164 509 165 c 1,110,-1
  509 165 l 1,0,-1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: OSHWA
@@ -9445,9 +9532,10 @@ SplineSet
  377 81 377 81 343 114.5 c 128,-1,94
  309 148 309 148 261.5 148 c 128,-1,95
 EndSplineSet
+Validated: 1
 EndChar
 
-StartChar: Prusa Slicer
+StartChar: Prusa
 Encoding: 62289 62289 85
 Width: 383
 GlyphClass: 1
@@ -9468,6 +9556,7 @@ SplineSet
  76 -102 76 -102 13 -38 c 1,14,-1
  320 269 l 1,8,9
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: RepRap
@@ -9488,6 +9577,7 @@ SplineSet
  0 198 0 198 62 260 c 2,9,-1
  212 410 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: RISC-V
@@ -9527,9 +9617,10 @@ SplineSet
  511 -101 l 1,28,-1
  331 -101 l 1,24,-1
 EndSplineSet
+Validated: 513
 EndChar
 
-StartChar: Awesome WM
+StartChar: Awesome
 Encoding: 62292 62292 88
 Width: 512
 GlyphClass: 1
@@ -9553,6 +9644,7 @@ SplineSet
  352 250 l 1,13,-1
  0 250 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bspwm
@@ -9823,6 +9915,7 @@ SplineSet
  309 113 309 113 307 117 c 0,366,367
  307 120 307 120 303 120 c 0,282,283
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: dwm
@@ -9863,6 +9956,7 @@ SplineSet
  0 47 l 1,27,-1
  0 175 l 1,0,-1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: Enlightenment
@@ -9977,6 +10071,7 @@ SplineSet
  328 16 328 16 334 22 c 256,174,175
  340 28 340 28 348 39 c 1,110,111
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Fluxbox
@@ -10031,6 +10126,7 @@ SplineSet
  116 93 l 1,51,-1
  139 94 l 1,48,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Hyprland
@@ -10067,6 +10163,7 @@ SplineSet
  89 294 89 294 121.5 336.5 c 128,-1,29
  154 379 154 379 172 410 c 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: i3
@@ -10144,6 +10241,7 @@ SplineSet
  0 159 0 159 8.5 168 c 128,-1,85
  17 177 17 177 29 177 c 128,-1,86
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: JWM
@@ -10184,6 +10282,7 @@ SplineSet
  111 109 111 109 111 121 c 2,31,-1
  111 288 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Qtile
@@ -10236,6 +10335,7 @@ SplineSet
  400 -50 400 -50 393 -43 c 2,54,-1
  219 131 l 2,39,40
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Sway
@@ -10363,6 +10463,7 @@ SplineSet
  374 189 374 189 395.5 197.5 c 128,-1,182
  417 206 417 206 433 206 c 0,170,171
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: Xmonad
@@ -10388,6 +10489,7 @@ SplineSet
  324 326 l 1,11,-1
  381 408 l 1,8,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Cinnamon
@@ -10420,6 +10522,7 @@ SplineSet
  468 242 468 242 406 304 c 128,-1,8
  344 366 344 366 256 366 c 128,-1,9
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: freedesktop.org
@@ -10526,6 +10629,7 @@ SplineSet
  295 88 l 2,119,120
  294 92 294 92 290 92 c 2,107,108
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: GNOME
@@ -10594,6 +10698,7 @@ SplineSet
  115 210 115 210 158 223 c 128,-1,75
  201 236 201 236 244 235 c 1,45,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: GTK
@@ -10638,6 +10743,7 @@ SplineSet
  11 54 l 1,25,-1
  173 102 l 1,23,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: LXDE
@@ -10693,6 +10799,7 @@ SplineSet
  405 186 405 186 384 209 c 1,61,-1
  384 211 l 1,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: LXQt
@@ -10752,6 +10859,7 @@ SplineSet
  314 230 314 230 318 257 c 0,70,71
  320 270 320 270 326 282 c 1,47,48
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: MATE
@@ -10803,9 +10911,10 @@ SplineSet
  148 255 l 1,48,49
  193 305 193 305 260 305 c 0,30,31
 EndSplineSet
+Validated: 1
 EndChar
 
-StartChar: Vanilla OS
+StartChar: Vanilla
 Encoding: 62310 62310 106
 Width: 512
 GlyphClass: 1
@@ -10921,6 +11030,7 @@ SplineSet
  240 137 240 137 245.5 149.5 c 128,-1,130
  251 162 251 162 257 162 c 128,-1,131
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Wayland
@@ -11049,6 +11159,7 @@ SplineSet
  361 388 l 1,165,166
  373 382 373 382 384 376 c 0,92,93
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: XFCE
@@ -11177,6 +11288,7 @@ SplineSet
  435 147 435 147 432 151 c 0,147,148
  431 151 431 151 431 151 c 2,139,140
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: Xorg
@@ -11237,6 +11349,7 @@ SplineSet
  231 269 231 269 218 285 c 1,65,66
  241 287 241 287 256 287 c 0,51,52
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: F-droid
@@ -11342,6 +11455,7 @@ SplineSet
  327 77 327 77 306.5 97.5 c 128,-1,111
  286 118 286 118 257 118 c 0,90,91
 EndSplineSet
+Validated: 513
 EndChar
 
 StartChar: FOSDEM
@@ -11448,6 +11562,7 @@ SplineSet
  264 169 264 169 274.5 179.5 c 128,-1,100
  285 190 285 190 299.5 190 c 128,-1,101
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: OSI
@@ -11476,6 +11591,7 @@ SplineSet
  412 -76 412 -76 346 -93 c 1,23,-1
  287 61 l 1,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Wikimedia
@@ -11529,6 +11645,7 @@ SplineSet
  98 92 98 92 98 150 c 0,59,60
  98 222 98 222 153 268 c 1,53,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: mpv
@@ -11582,6 +11699,7 @@ SplineSet
  223 101 l 1,44,-1
  223 206 l 1,42,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Neovim
@@ -11610,6 +11728,7 @@ SplineSet
  0 300 l 1,13,-1
  19 321 l 1,9,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Thunderbird
@@ -11677,9 +11796,10 @@ SplineSet
  351 203 l 1,84,-1
  356 203 l 1,74,75
 EndSplineSet
+Validated: 33
 EndChar
 
-StartChar: Tor Browser
+StartChar: Tor
 Encoding: 62321 62321 117
 Width: 512
 GlyphClass: 1
@@ -11725,9 +11845,10 @@ SplineSet
  150 -102 150 -102 75 -27 c 128,-1,32
  0 48 0 48 0 154.5 c 128,-1,33
 EndSplineSet
+Validated: 1
 EndChar
 
-StartChar: VS Codium
+StartChar: VS
 Encoding: 62322 62322 118
 Width: 511
 GlyphClass: 1
@@ -11804,6 +11925,7 @@ SplineSet
  231 366 231 366 233.5 378.5 c 128,-1,102
  236 391 236 391 247 398 c 1,0,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: KDE
@@ -11869,6 +11991,7 @@ SplineSet
  87 323 l 2,70,11
  88 324 88 324 89.5 324.5 c 128,-1,12
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: PostmarketOS
@@ -11907,6 +12030,7 @@ SplineSet
  360 22 l 1,23,-1
  379 75 l 1,16,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Qt
@@ -11966,6 +12090,7 @@ SplineSet
  140 118 140 118 140 163 c 128,-1,42
  140 208 140 208 151.5 228.5 c 128,-1,43
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: LibreOffice
@@ -12005,9 +12130,10 @@ SplineSet
  204 362 l 1,30,-1
  64 362 l 2,17,18
 EndSplineSet
+Validated: 2097153
 EndChar
 
-StartChar: LibreOffice Base
+StartChar: LibreOffice
 Encoding: 62327 62327 123
 Width: 416
 GlyphClass: 1
@@ -12119,9 +12245,10 @@ SplineSet
  318 -28 l 1,104,-1
  318 16 l 1,101,-1
 EndSplineSet
+Validated: 2097153
 EndChar
 
-StartChar: LibreOffice Calc
+StartChar: LibreOffice
 Encoding: 62328 62328 124
 Width: 416
 GlyphClass: 1
@@ -12238,9 +12365,10 @@ SplineSet
  296 -30 l 1,100,-1
  296 14 l 1,97,-1
 EndSplineSet
+Validated: 2097153
 EndChar
 
-StartChar: LibreOffice Draw
+StartChar: LibreOffice
 Encoding: 62329 62329 125
 Width: 416
 GlyphClass: 1
@@ -12305,9 +12433,10 @@ SplineSet
  184 103 l 2,65,66
  180 109 180 109 173 108 c 0,54,55
 EndSplineSet
+Validated: 2097153
 EndChar
 
-StartChar: LibreOffice Impress
+StartChar: LibreOffice
 Encoding: 62330 62330 126
 Width: 416
 GlyphClass: 1
@@ -12439,9 +12568,10 @@ SplineSet
  180 -9 180 -9 175 -9 c 2,131,-1
  87 -9 l 2,120,121
 EndSplineSet
+Validated: 2097185
 EndChar
 
-StartChar: LibreOffice Math
+StartChar: LibreOffice
 Encoding: 62331 62331 127
 Width: 416
 GlyphClass: 1
@@ -12541,9 +12671,10 @@ SplineSet
  377 -29 377 -29 373 -29 c 2,100,-1
  307 -29 l 2,89,90
 EndSplineSet
+Validated: 2097185
 EndChar
 
-StartChar: LibreOffice Writer
+StartChar: LibreOffice
 Encoding: 62332 62332 128
 Width: 416
 GlyphClass: 1
@@ -12659,9 +12790,10 @@ SplineSet
  180 -30 180 -30 175 -30 c 2,118,-1
  43 -30 l 2,107,108
 EndSplineSet
+Validated: 2097153
 EndChar
 
-StartChar: openSUSE Tumbleweed
+StartChar: openSUSE
 Encoding: 62333 62333 129
 Width: 512
 GlyphClass: 1
@@ -12721,9 +12853,10 @@ SplineSet
  447 274 447 274 393 274 c 1,78,-1
  393 274 l 1,0,1
 EndSplineSet
+Validated: 2097157
 EndChar
 
-StartChar: openSUSE Leap
+StartChar: openSUSE
 Encoding: 62334 62334 130
 Width: 396
 GlyphClass: 1
@@ -12777,6 +12910,7 @@ SplineSet
  0 89 0 89 0 96 c 2,56,-1
  0 113 l 1,31,-1
 EndSplineSet
+Validated: 2097157
 EndChar
 
 StartChar: Typst
@@ -12807,9 +12941,10 @@ SplineSet
  165 258 l 1,21,-1
  165 29 l 2,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
-StartChar: Nobara Linux
+StartChar: Nobara
 Encoding: 62336 62336 132
 Width: 504
 GlyphClass: 1
@@ -12868,6 +13003,7 @@ SplineSet
  193 158 193 158 208.5 184 c 128,-1,70
  224 210 224 210 252 208 c 0,62,63
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: River
@@ -12918,94 +13054,98 @@ SplineSet
  0 -102 l 1,49,-1
  0 372 l 1,25,26
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: CachyOS
 Encoding: 62338 62338 134
-Width: 512
+Width: 842
+GlyphClass: 2
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-498.4375 102.951171875 m 128,-1,1
- 498.4375 118.321044922 498.4375 118.321044922 487.557006836 129.201538086 c 128,-1,2
- 476.676513672 140.08203125 476.676513672 140.08203125 461.306640625 140.08203125 c 128,-1,3
- 445.936767578 140.08203125 445.936767578 140.08203125 435.056274414 129.201538086 c 128,-1,4
- 424.17578125 118.321044922 424.17578125 118.321044922 424.17578125 102.951171875 c 128,-1,5
- 424.17578125 87.5812988281 424.17578125 87.5812988281 435.056274414 76.7008056641 c 128,-1,6
- 445.936767578 65.8203125 445.936767578 65.8203125 461.306640625 65.8203125 c 128,-1,7
- 476.676513672 65.8203125 476.676513672 65.8203125 487.557006836 76.7008056641 c 128,-1,0
- 498.4375 87.5812988281 498.4375 87.5812988281 498.4375 102.951171875 c 128,-1,1
-394.283203125 181.018554688 m 128,-1,9
- 394.283203125 192.686767578 394.283203125 192.686767578 386.023071289 200.946899414 c 128,-1,10
- 377.762939453 209.20703125 377.762939453 209.20703125 366.094726562 209.20703125 c 128,-1,11
- 354.426513672 209.20703125 354.426513672 209.20703125 346.166381836 200.946899414 c 128,-1,12
- 337.90625 192.686767578 337.90625 192.686767578 337.90625 181.018554688 c 128,-1,13
- 337.90625 169.350341797 337.90625 169.350341797 346.166381836 161.090209961 c 128,-1,14
- 354.426513672 152.830078125 354.426513672 152.830078125 366.094726562 152.830078125 c 128,-1,15
- 377.762939453 152.830078125 377.762939453 152.830078125 386.023071289 161.090209961 c 128,-1,8
- 394.283203125 169.350341797 394.283203125 169.350341797 394.283203125 181.018554688 c 128,-1,9
-418.452148438 289.665039062 m 128,-1,17
- 418.452148438 295.673095703 418.452148438 295.673095703 414.198852539 299.926391602 c 128,-1,18
- 409.945556641 304.1796875 409.945556641 304.1796875 403.9375 304.1796875 c 128,-1,19
- 397.928786484 304.1796875 397.928786484 304.1796875 393.675330742 299.926429373 c 128,-1,20
- 389.421875 295.673171246 389.421875 295.673171246 389.421875 289.665039062 c 128,-1,21
- 389.421875 283.656813824 389.421875 283.656813824 393.675377264 279.403113943 c 128,-1,22
- 397.928879528 275.149414062 397.928879528 275.149414062 403.9375 275.149414062 c 128,-1,23
- 409.945463601 275.149414062 409.945463601 275.149414062 414.198806019 279.403151718 c 128,-1,16
- 418.452148438 283.656889373 418.452148438 283.656889373 418.452148438 289.665039062 c 128,-1,17
-132.81640625 335.397460938 m 1,24,-1
- 246.09765625 271.881835938 l 1,25,-1
- 359.67578125 334.491210938 l 1,26,-1
- 132.81640625 335.397460938 l 1,24,-1
-187.286132812 61.984375 m 1,27,-1
- 137.426757812 -35.859375 l 1,28,-1
- 360.973632812 -35.859375 l 1,29,-1
- 187.286132812 61.984375 l 1,27,-1
-136.626953125 78.16796875 m 1,30,-1
- 136.626953125 -31.92578125 l 1,31,-1
- 184.080078125 61.18359375 l 1,32,-1
- 183.486328125 62.19921875 l 1,33,-1
- 136.626953125 78.16796875 l 1,30,-1
-133.90625 331.828125 m 1,34,-1
- 186.03125 238.5 l 1,35,-1
- 243.6875 270.28125 l 1,36,-1
- 133.90625 331.828125 l 1,34,-1
-189.791992188 237.84375 m 1,37,-1
- 308.3359375 237.84375 l 1,38,-1
- 363.671875 333.688476562 l 1,39,-1
- 189.791992188 237.84375 l 1,37,-1
-130.37890625 209.203125 m 1,40,-1
- 27.16015625 154.953125 l 1,41,-1
- 131.81640625 152.40625 l 1,42,-1
- 130.37890625 209.203125 l 1,40,-1
-183.390625 237.482421875 m 1,43,-1
- 129.616210938 333.803710938 l 1,44,-1
- 134.223632812 152.323242188 l 1,45,-1
- 183.390625 237.482421875 l 1,43,-1
-189.682617188 63.576171875 m 1,46,-1
- 363.375 -34.2529296875 l 1,47,-1
- 419.856445312 63.576171875 l 1,48,-1
- 189.682617188 63.576171875 l 1,46,-1
-51.880859375 107.032226562 m 1,49,-1
- 134.224609375 -35.8583984375 l 1,50,-1
- 134.224609375 78.9697265625 l 1,51,-1
- 51.880859375 107.032226562 l 1,49,-1
-51.8798828125 109.423828125 m 1,52,-1
- 184.081054688 64.3740234375 l 1,53,-1
- 134.228515625 150.719726562 l 1,54,-1
- 51.8798828125 109.423828125 l 1,52,-1
-127.248046875 333.223632812 m 1,55,-1
- 124.807617188 334.599609375 l 1,56,-1
- 21.5595703125 155.759765625 l 1,57,-1
- 22.142578125 154.75 l 1,58,-1
- 23.9677734375 155.759765625 l 1,59,-1
- 130.34375 211.6640625 l 1,60,-1
- 127.248046875 333.223632812 l 1,55,-1
-129.462890625 150.592773438 m 1,61,-1
- 23.1162109375 153.036132812 l 1,62,-1
- 49.7734375 110.87890625 l 1,63,-1
- 129.462890625 150.592773438 l 1,61,-1
+826 79 m 128,-1,1
+ 826 52 826 52 807 33.5 c 128,-1,2
+ 788 15 788 15 762 15 c 128,-1,3
+ 736 15 736 15 717 33.5 c 128,-1,4
+ 698 52 698 52 698 79 c 128,-1,5
+ 698 106 698 106 717 124 c 128,-1,6
+ 736 142 736 142 762 142 c 128,-1,7
+ 788 142 788 142 807 124 c 128,-1,0
+ 826 106 826 106 826 79 c 128,-1,1
+647 214 m 0,8,9
+ 647 194 647 194 632.5 179.5 c 128,-1,10
+ 618 165 618 165 598 165 c 128,-1,11
+ 578 165 578 165 564 180 c 128,-1,12
+ 550 195 550 195 550 214 c 0,13,14
+ 550 234 550 234 564 247 c 0,15,16
+ 579 261 579 261 598 261 c 0,17,18
+ 618 261 618 261 633 248 c 0,19,20
+ 647 236 647 236 647 214 c 0,8,9
+688 400 m 0,21,22
+ 688 390 688 390 681 382.5 c 128,-1,23
+ 674 375 674 375 664 375 c 128,-1,24
+ 654 375 654 375 646 382 c 128,-1,25
+ 638 389 638 389 638 400 c 0,26,27
+ 638 410 638 410 646 418 c 0,28,29
+ 653 425 653 425 664 425 c 0,30,31
+ 674 425 674 425 681 418 c 128,-1,32
+ 688 411 688 411 688 400 c 0,21,22
+197 479 m 1,33,-1
+ 587 478 l 1,34,-1
+ 392 370 l 1,35,-1
+ 197 479 l 1,33,-1
+291 9 m 1,36,-1
+ 590 -159 l 1,37,-1
+ 205 -159 l 1,38,-1
+ 291 9 l 1,36,-1
+204 36 m 1,39,-1
+ 285 9 l 1,40,-1
+ 286 8 l 1,41,-1
+ 204 -152 l 1,42,-1
+ 204 36 l 1,39,-1
+200 472 m 1,43,-1
+ 388 366 l 1,44,-1
+ 288 312 l 1,45,-1
+ 200 472 l 1,43,-1
+295 311 m 1,46,-1
+ 595 476 l 1,47,-1
+ 498 311 l 1,48,-1
+ 295 311 l 1,46,-1
+194 261 m 1,49,-1
+ 196 164 l 1,50,-1
+ 16 169 l 1,51,-1
+ 194 261 l 1,49,-1
+285 310 m 1,52,-1
+ 200 164 l 1,53,-1
+ 192 476 l 1,54,-1
+ 285 310 l 1,52,-1
+295 11 m 1,55,-1
+ 691 11 l 1,56,-1
+ 594 -156 l 1,57,-1
+ 295 11 l 1,55,-1
+58 86 m 1,58,-1
+ 200 38 l 1,59,-1
+ 200 -159 l 1,60,-1
+ 58 86 l 1,58,-1
+58 90 m 1,61,-1
+ 200 161 l 1,62,-1
+ 286 12 l 1,63,-1
+ 58 90 l 1,61,-1
+187 475 m 1,64,-1
+ 194 266 l 1,65,-1
+ 10 170 l 1,66,-1
+ 7 169 l 1,67,-1
+ 6 170 l 1,68,-1
+ 184 478 l 1,69,-1
+ 187 475 l 1,64,-1
+192 161 m 1,70,-1
+ 55 92 l 1,71,-1
+ 8 165 l 1,72,-1
+ 192 161 l 1,70,-1
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont

@@ -3,11 +3,16 @@
 SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 
 if [ "$1" == "" ] || [ "$1" == "-h" ] || [ "$1" == "--help" ]; then
-  printf "\e[1;37m>\e[0m \e[1;32mpatch-font.sh\e[0m \e[1;31m[-h|--help]\e[0m \e[1;33m[font-file] [font-name]\e[0m\n"
+  printf "\e[1;37m>\e[0m \e[1;32mpatch-font.sh\e[0m \e[1;31m[-h|--help] [-m]\e[0m \e[1;33m[font-file] [font-name]\e[0m\n"
   printf "  ---------------------------------------------------\n"
   printf "  \e[36m[font-file]\e[0m \u21A6 '.otf', '.ttf' font file path\n"
   printf "  \e[36m[font-name]\e[0m \u21A6 output filename (without spaces)\n"
   printf "              \u21B3 not required\n"
+  printf "  ---------------------------------------------------\n"
+  printf "  \e[36m[-m]\e[0m \u21A6 Multiple files trigger\n"
+  printf "  \e[36m[font-file]\e[0m \u21A6 directory of '.ttf', '.otf' files\n"
+  printf "              \u21B3 in the same basedir; without '/' at the end\n"
+  printf "  \e[36m[font-name]\e[0m \u21A6 \e[1;31mCANNOT BE USED\e[0m\n"
   printf "  ---------------------------------------------------\n"
   printf "  \e[1mAsks User to install required packages.\e[0m\n"
   printf "  > \e[4mPackages:\e[0m \e[1;33mcurl, unzip, fontforge, python3\e[0m\n"
@@ -19,17 +24,19 @@ if [ "$1" == "" ] || [ "$1" == "-h" ] || [ "$1" == "--help" ]; then
   exit 0
 fi
 
-if [ "$1" == *"ttf"* ] || [ "$1" == *"otf"* ]; then
+if [[ "$1" == *"ttf"* ]] || [[ "$1" == *"otf"* ]]; then
   font_file=$SCRIPT_DIR/$1
+elif [[ "$1" == "-m" ]]; then
+  font_dir=$2
 else
   printf "\e[1;31m[ERROR]\e[0m Unsupported font file\n"
   exit 1
 fi
 
-if [ "$2" != "" ]; then
-  font_name=$2
+if [ "$2" != "" ] && [ ! font_dir ]; then
+  font_name="--name $2"
 else
-  font_name="PatchedFont"
+  font_name=""
 fi
 
 while true; do
@@ -48,6 +55,12 @@ unzip FontPatcher.zip
 rm FontPatcher.zip
 
 # Run fontforge
-fontforge -script font-patcher --custom $SCRIPT_DIR/glyph-dir/font-logos.ttf --out $SCRIPT_DIR/out/ --name $font_name $font_file
+if [ font_dir ]; then
+  for file in $(ls $SCRIPT_DIR/$font_dir); do
+    fontforge -script $SCRIPT_DIR/font-patcher --custom $SCRIPT_DIR/glyph-dir/font-logos.ttf --out $SCRIPT_DIR/out/ $SCRIPT_DIR/$font_dir/$file
+  done
+else
+  fontforge -script $SCRIPT_DIR/font-patcher --custom $SCRIPT_DIR/glyph-dir/font-logos.ttf --out $SCRIPT_DIR/out/ $font_name $font_file
+fi
 
 rm -rf $SCRIPT_DIR/bin/ $SCRIPT_DIR/src/ $SCRIPT_DIR/font-patcher $SCRIPT_DIR/glyphnames.json $SCRIPT_DIR/readme.md
